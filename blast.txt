@@ -1,0 +1,4520 @@
+Results of BLAST search for Translated amino acid sequence of NM_002049 Homo sapiens GATA binding protein 1 (GATA1), mRNA.
+----------------------------------------------------------------------
+Hit #1
+lcl|sp:GATA1_HUMAN
+sp:GATA1_HUMAN [P15976] RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; AltName: Full=GATA-binding factor 1; Short=GATA-1; Short=GF-1; AltName: Full=NF-E1 DNA-binding protein;
+Length: 413
+	******************************************************************
+	HSP 1
+	Bit score: 586.26
+	Score: 1510
+	E-value: 1.4764e-166
+	Start in query: 26
+	End in query: 438
+	Start in subject: 1
+	End in subject: 413
+	Number of identities: 310
+	Number of positives: 310
+	Number of gaps: 0
+	Alignment length: 413
+	Alignment string for query (with gaps):   MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDXXXXXXXXXXXXXXXXXXXXXXXXXXXRHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLXXXXXXXXXXXXXXXXXXXVVAPLSS
+	Alignment string for subject (with gaps): MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDAAASSTAPSTATAAAAALAYYRDAEAYRHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAYGGPDFSSTFFSPTGSPLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGTQCTNCQTTTTTLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQTRNRKASGKGKKKRGSSLGGTGAAEGPAGGFMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLGSPTGSFPTGPMPPTTSTTVVAPLSS
+	Middle line:                              MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLD                           RHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAY                LNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAG            LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT                             FMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLL                   VVAPLSS
+	******************************************************************
+----------------------------------------------------------------------
+Hit #2
+lcl|sp:GATA1_MOUSE
+sp:GATA1_MOUSE [P17679] RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; AltName: Full=GATA-binding factor 1; Short=GATA-1; Short=GF-1; AltName: Full=NF-E1 DNA-binding protein;
+Length: 413
+	******************************************************************
+	HSP 1
+	Bit score: 514.998
+	Score: 1325
+	E-value: 4.32191e-145
+	Start in query: 26
+	End in query: 438
+	Start in subject: 1
+	End in subject: 413
+	Number of identities: 269
+	Number of positives: 285
+	Number of gaps: 0
+	Alignment length: 413
+	Alignment string for query (with gaps):   MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDXXXXXXXXXXXXXXXXXXXXXXXXXXXRHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLXXXXXXXXXXXXXXXXXXXVVAPLSS
+	Alignment string for subject (with gaps): MDFPGLGALGTSEPLPQFVDSALVSSPSDSTGFFSSGPEGLDAASSSTSPNAATAAASALAYYREAEAYRHSPVFQVYPLLNSMEGIPGGSPYASWAYGKTALYPASTVCPSHEDAPSQALEDQEGKSNNTFLDTLKTERLSPDLLTLGTALPASLPVTGSAYGGADFPSPFFSPTGSPLSSAAYSSPKFHGSLPLAPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRMIVSKRAGTQCTNCQTTTTTLWRRNASGDPVCNACGLYFKLHQVNRPLTMRKDGIQTRNRKASGKGKKKRGSNLAGAGAAEGPAGGFMVVAGSSSSGNCGEVASGLALGTAGTAHLYQGLGPVVLSGPVSHLMPFPGPLLGSPTTSFPTGPAPTTSSTSVIAPLSS
+	Middle line:                              M+FPGLG+LGTSEPLPQFVD ALVSS  +S  FF SGPEGLD                           RHSPVFQVYPLLN MEGIPGGSPYA WAYGKT LYPASTVCP+ ED+P QA+ED +GK + +FL+TLKTERLSPDLLTLG ALP+SLPV  SAY                L+SAAYSSPK  G+LPL PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKR+IVSKRAG            LWRRNASGDPVCNACGLY+KLHQVNRPLTMRKDGIQT                             FMVVAG S SGNCGEVASGL LG  GTAHLYQGLGPVVLSGPVSHLMPFPGPLL                   V+APLSS
+	******************************************************************
+----------------------------------------------------------------------
+Hit #3
+lcl|sp:GATA1_RAT
+sp:GATA1_RAT [P43429] RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; AltName: Full=GATA-binding factor 1; Short=GATA-1; Short=GF-1; AltName: Full=NF-E1 DNA-binding protein;
+Length: 413
+	******************************************************************
+	HSP 1
+	Bit score: 512.686
+	Score: 1319
+	E-value: 2.0573e-144
+	Start in query: 26
+	End in query: 438
+	Start in subject: 1
+	End in subject: 413
+	Number of identities: 269
+	Number of positives: 283
+	Number of gaps: 0
+	Alignment length: 413
+	Alignment string for query (with gaps):   MEFPGLGSLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDXXXXXXXXXXXXXXXXXXXXXXXXXXXRHSPVFQVYPLLNCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPPQAVEDLDGKGSTSFLETLKTERLSPDLLTLGPALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXFMVVAGGSGSGNCGEVASGLTLGPPGTAHLYQGLGPVVLSGPVSHLMPFPGPLLXXXXXXXXXXXXXXXXXXXVVAPLSS
+	Alignment string for subject (with gaps): MDFPGLGALGTSEPLPQFVDSALVSSTSDSAGFFSSGPESLDTASSSTSPNAATAAATALAYYREAEAYRHSPVFQVYPLLNSMEGIPGSSPYASWAYSKTALYPASTVCPSHEDAPSQTLEDPDGKNNNTFLETLKTERLSPDLLTLGTALPTSLPVTSSAYGGADFPSPFFSPTGSPLSSAAYSSPKFHGSLPLAPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRMIVSKRAGTQCTNCQTTTTTLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQTRNRKASGKGKKKRGSSLAGAGAAEGPAGGFMVVAGGSSSGNCGEVAPGLTLGTAGTAHLYQGLGPVVLSGPVSHLMSFPGPLLGSPTASFPTGPVPTTTSTSVVSPLSS
+	Middle line:                              M+FPGLG+LGTSEPLPQFVD ALVSST +S  FF SGPE LD                           RHSPVFQVYPLLN MEGIPG SPYA WAY KT LYPASTVCP+ ED+P Q +ED DGK + +FLETLKTERLSPDLLTLG ALP+SLPV +SAY                L+SAAYSSPK  G+LPL PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKR+IVSKRAG            LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT                             FMVVAGGS SGNCGEVA GLTLG  GTAHLYQGLGPVVLSGPVSHLM FPGPLL                   VV+PLSS
+	******************************************************************
+----------------------------------------------------------------------
+Hit #4
+lcl|sp:GAT1A_XENLA
+sp:GAT1A_XENLA [P23767] RecName: Full=GATA-binding factor 1-A; AltName: Full=Transcription factor xGATA-1A;
+Length: 359
+	******************************************************************
+	HSP 1
+	Bit score: 216.083
+	Score: 549
+	E-value: 3.81752e-55
+	Start in query: 95
+	End in query: 329
+	Start in subject: 55
+	End in subject: 278
+	Number of identities: 131
+	Number of positives: 141
+	Number of gaps: 39
+	Alignment length: 249
+	Alignment string for query (with gaps):   RHSPVFQVYPLL--NCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPP--QAVEDLDG-------KGSTSFLETLKTERLSP---DLLTLGPALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): RHSPVFQTFPLHWPETSAGIPSNLTAYGRSTGTLSFYPSAASALGPITSPPLYSASSFLLGSAPPAEREGSPKFLETLKTERASPLTSDLLPLEPRSPSILQV-------------------GYIGGGGQEFSLFQST------EDRECVNCGATVTPLWRRDMSGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGTQCSNCHTSTTTLWRRNASGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              RHSPVFQ +PL       GIP      G + G    YP++        SPP   A   L G       +GS  FLETLKTER SP   DLL L P  PS L V                     +          + T      E RECVNCGAT TPLWRRD +GHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAG            LWRRNASGDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+----------------------------------------------------------------------
+Hit #5
+lcl|sp:GAT1B_XENLA
+sp:GAT1B_XENLA [P23768] RecName: Full=GATA-binding factor 1-B; AltName: Full=Transcription factor xGATA-1B;
+Length: 364
+	******************************************************************
+	HSP 1
+	Bit score: 212.231
+	Score: 539
+	E-value: 5.37622e-54
+	Start in query: 33
+	End in query: 329
+	Start in subject: 5
+	End in subject: 280
+	Number of identities: 140
+	Number of positives: 160
+	Number of gaps: 49
+	Alignment length: 311
+	Alignment string for query (with gaps):   SLGTSEPLPQFVDPALVSSTPESGVFFPSGPEGLDXXXXXXXXXXXXXXXXXXXXXXXXXXXRHSPVFQVYPLL--NCMEGIPGGSPYAGWAYGKTGLYPASTVCPTREDSPP--QAVEDLDG-------KGSTSFLETLKTERLSP---DLLTLGPALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): TLTTQDPLQNYTESALASTSEDSEFLYGLGGEN------------SPGHYGGIVSSRAVGGFRHSPVLQTFPLHWPETSAGIPQSLTTYGRSPGTLPLYPSAASALGSITSPPLYSATPFLLGSAPLAERDGSPKFLETLKTERTSPLTSDILSLEPRSPSLLQV---GYLGG--------------GGQEFSHSLFQST------EDRECVNCGATVTPLWRRDLSGHYLCNACGLYHKMNGQNRPLIRPKKRLIISKRAGTQCSNCHTSTTTLWRRNAGGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              +L T +PL  + + AL S++ +S   +  G E                              RHSPV Q +PL       GIP      G + G   LYP++        SPP   A   L G        GS  FLETLKTER SP   D+L+L P  PS L V    Y                     +S    + T      E RECVNCGAT TPLWRRD +GHYLCNACGLYHKMNGQNRPLIRPKKRLI+SKRAG            LWRRNA GDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+----------------------------------------------------------------------
+Hit #6
+lcl|sp:GATA1_CHICK
+sp:GATA1_CHICK [P17678] RecName: Full=Erythroid transcription factor; AltName: Full=Eryf1; AltName: Full=GATA-binding factor 1; Short=GATA-1; AltName: Full=NF-E1 DNA-binding protein; Short=NF-E1a;
+Length: 304
+	******************************************************************
+	HSP 1
+	Bit score: 193.741
+	Score: 491
+	E-value: 1.92985e-48
+	Start in query: 222
+	End in query: 329
+	Start in subject: 103
+	End in subject: 210
+	Number of identities: 89
+	Number of positives: 93
+	Number of gaps: 0
+	Alignment length: 108
+	Alignment string for query (with gaps):   PPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PPCEARECVNCGATATPLWRRDGTGHYLCNACGLYHRLNGQNRPLIRPKKRLLVSKRAGTVCSNCQTSTTTLWRRSPMGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Middle line:                              PPCEARECVNCGATATPLWRRD TGHYLCNACGLYH++NGQNRPLIRPKKRL+VSKRAG            LWRR+  GDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	******************************************************************
+----------------------------------------------------------------------
+Hit #7
+lcl|sp:GATA2_HUMAN
+sp:GATA2_HUMAN [P23769] RecName: Full=Endothelial transcription factor GATA-2; AltName: Full=GATA-binding protein 2;
+Length: 480
+	******************************************************************
+	HSP 1
+	Bit score: 184.111
+	Score: 466
+	E-value: 1.73298e-45
+	Start in query: 147
+	End in query: 329
+	Start in subject: 206
+	End in subject: 395
+	Number of identities: 104
+	Number of positives: 117
+	Number of gaps: 19
+	Alignment length: 196
+	Alignment string for query (with gaps):   EDLDG-KGSTSFLETLKTER---LSPDLLTLG---------PALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EDKDGVKYQVSLTESMKMESGSPLRPGLATMGTQPATHHPIPTYPSYVPAAAHDYSSGLFHPGGFLG-----GPASSFTPKQRSKA-RSCSEGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTCCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              ED DG K   S  E++K E    L P L T+G         P  PS +P     Y                   A+  +PK R        E RECVNCGATATPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.46688e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 349
+	End in subject: 398
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #8
+lcl|sp:GATA2_CHICK
+sp:GATA2_CHICK [P23824] RecName: Full=GATA-binding factor 2; Short=GATA-2; AltName: Full=Transcription factor NF-E1b;
+Length: 466
+	******************************************************************
+	HSP 1
+	Bit score: 183.341
+	Score: 464
+	E-value: 2.78832e-45
+	Start in query: 225
+	End in query: 329
+	Start in subject: 277
+	End in subject: 381
+	Number of identities: 81
+	Number of positives: 88
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTCCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              E RECVNCGATATPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.42606e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 335
+	End in subject: 384
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #9
+lcl|sp:GATA3_CHICK
+sp:GATA3_CHICK [P23825] RecName: Full=GATA-binding factor 3; Short=GATA-3; AltName: Full=Transcription factor NF-E1c;
+Length: 444
+	******************************************************************
+	HSP 1
+	Bit score: 183.341
+	Score: 464
+	E-value: 2.85899e-45
+	Start in query: 211
+	End in query: 329
+	Start in subject: 251
+	End in subject: 364
+	Number of identities: 83
+	Number of positives: 93
+	Number of gaps: 5
+	Alignment length: 119
+	Alignment string for query (with gaps):   SSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): SRPKARSST-----EGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQT
+	Middle line:                              S PK R +      E RECVNCGAT+TPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH +NRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.08774e-07
+	Start in query: 228
+	End in query: 278
+	Start in subject: 317
+	End in subject: 367
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 51
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): SCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNR
+	Middle line:                               C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #10
+lcl|sp:GATA3_MOUSE
+sp:GATA3_MOUSE [P23772] RecName: Full=Trans-acting T-cell-specific transcription factor GATA-3; AltName: Full=GATA-binding factor 3;
+Length: 443
+	******************************************************************
+	HSP 1
+	Bit score: 183.341
+	Score: 464
+	E-value: 2.9071e-45
+	Start in query: 211
+	End in query: 329
+	Start in subject: 250
+	End in subject: 363
+	Number of identities: 83
+	Number of positives: 93
+	Number of gaps: 5
+	Alignment length: 119
+	Alignment string for query (with gaps):   SSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): SRPKARSST-----EGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQT
+	Middle line:                              S PK R +      E RECVNCGAT+TPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH +NRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.08774e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 317
+	End in subject: 366
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #11
+lcl|sp:GATA2_MOUSE
+sp:GATA2_MOUSE [O09100] RecName: Full=Endothelial transcription factor GATA-2; AltName: Full=GATA-binding protein 2;
+Length: 480
+	******************************************************************
+	HSP 1
+	Bit score: 182.956
+	Score: 463
+	E-value: 3.92565e-45
+	Start in query: 147
+	End in query: 329
+	Start in subject: 206
+	End in subject: 395
+	Number of identities: 104
+	Number of positives: 117
+	Number of gaps: 19
+	Alignment length: 196
+	Alignment string for query (with gaps):   EDLDG-KGSTSFLETLKTER---LSPDLLTLG---------PALPSSLPVPNSAYXXXXXXXXXXXXXXXXLNSAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EDKDGVKYQVSLSESMKMEGGSPLRPGLATMGTQPATHHPIPTYPSYVPAAAHDYGSSLFHPGGFLG-----GPASSFTPKQRSKA-RSCSEGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTCCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              ED DG K   S  E++K E    L P L T+G         P  PS +P     Y                   A+  +PK R        E RECVNCGATATPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.44638e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 349
+	End in subject: 398
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #12
+lcl|sp:GATA2_RAT
+sp:GATA2_RAT [Q924Y4] RecName: Full=Endothelial transcription factor GATA-2; AltName: Full=GATA-binding protein 2;
+Length: 480
+	******************************************************************
+	HSP 1
+	Bit score: 182.956
+	Score: 463
+	E-value: 3.99171e-45
+	Start in query: 225
+	End in query: 329
+	Start in subject: 291
+	End in subject: 395
+	Number of identities: 81
+	Number of positives: 88
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTCCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              E RECVNCGATATPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.03613e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 349
+	End in subject: 398
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #13
+lcl|sp:GATA2_XENLA
+sp:GATA2_XENLA [P23770] RecName: Full=GATA-binding factor 2; Short=GATA-2; AltName: Full=Transcription factor xGATA-2;
+Length: 452
+	******************************************************************
+	HSP 1
+	Bit score: 182.57
+	Score: 462
+	E-value: 5.12706e-45
+	Start in query: 225
+	End in query: 329
+	Start in subject: 263
+	End in subject: 367
+	Number of identities: 81
+	Number of positives: 88
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGATATPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTCCANCQTSTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              E RECVNCGATATPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.8398
+	Score: 133
+	E-value: 7.4833e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 321
+	End in subject: 370
+	Number of identities: 23
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTSTTTLWRRNANGDPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR
+	Middle line:                              C NC  + T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #14
+lcl|sp:GATA3_XENLA
+sp:GATA3_XENLA [P23773] RecName: Full=GATA-binding factor 3; AltName: Full=Transcription factor xGATA-3;
+Length: 435
+	******************************************************************
+	HSP 1
+	Bit score: 182.185
+	Score: 461
+	E-value: 6.36917e-45
+	Start in query: 213
+	End in query: 329
+	Start in subject: 245
+	End in subject: 356
+	Number of identities: 82
+	Number of positives: 92
+	Number of gaps: 5
+	Alignment length: 117
+	Alignment string for query (with gaps):   PKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PKTRSST-----EGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQT
+	Middle line:                              PK R +      E RECVNCGAT+TPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH +NRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.52941e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 310
+	End in subject: 359
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #15
+lcl|sp:GATA3_DANRE
+sp:GATA3_DANRE [Q91428] RecName: Full=Transcription factor GATA-3; AltName: Full=GATA-binding factor 3;
+Length: 438
+	******************************************************************
+	HSP 1
+	Bit score: 182.185
+	Score: 461
+	E-value: 6.64051e-45
+	Start in query: 225
+	End in query: 329
+	Start in subject: 252
+	End in subject: 356
+	Number of identities: 79
+	Number of positives: 88
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQT
+	Middle line:                              E RECVNCGAT+TPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH +NRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.48755e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 310
+	End in subject: 359
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #16
+lcl|sp:GATA3_HUMAN
+sp:GATA3_HUMAN [P23771] RecName: Full=Trans-acting T-cell-specific transcription factor GATA-3; AltName: Full=GATA-binding factor 3;
+Length: 443
+	******************************************************************
+	HSP 1
+	Bit score: 180.259
+	Score: 456
+	E-value: 2.15345e-44
+	Start in query: 211
+	End in query: 329
+	Start in subject: 251
+	End in subject: 363
+	Number of identities: 82
+	Number of positives: 92
+	Number of gaps: 6
+	Alignment length: 119
+	Alignment string for query (with gaps):   SSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): SRPKARSST------GRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQT
+	Middle line:                              S PK R +        RECVNCGAT+TPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH +NRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.12287e-07
+	Start in query: 228
+	End in query: 278
+	Start in subject: 316
+	End in subject: 366
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 51
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): SCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNR
+	Middle line:                               C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #17
+lcl|sp:GATA3_BOVIN
+sp:GATA3_BOVIN [Q08DV0] RecName: Full=Trans-acting T-cell-specific transcription factor GATA-3; AltName: Full=GATA-binding factor 3;
+Length: 443
+	******************************************************************
+	HSP 1
+	Bit score: 179.489
+	Score: 454
+	E-value: 3.73504e-44
+	Start in query: 211
+	End in query: 329
+	Start in subject: 251
+	End in subject: 363
+	Number of identities: 82
+	Number of positives: 92
+	Number of gaps: 6
+	Alignment length: 119
+	Alignment string for query (with gaps):   SSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): SRPKARSST------GRECVNCGATSTPLWRRDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQT
+	Middle line:                              S PK R +        RECVNCGAT+TPLWRRD TGHYLCNACGLYHKMNGQNRPLI+PK+RL  ++RAG            LWRRNA+GDPVCNACGLYYKLH +NRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.5506e-07
+	Start in query: 228
+	End in query: 278
+	Start in subject: 316
+	End in subject: 366
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 51
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): SCANCQTTTTTLWRRNANGDPVCNACGLYYKLHNINRPLTMKKEGIQTRNR
+	Middle line:                               C NC  T T LWRR+  G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #18
+lcl|sp:GATAC_DROME
+sp:GATAC_DROME [P91623] RecName: Full=GATA-binding factor C; AltName: Full=Protein grain; AltName: Full=Transcription factor GATA-C; AltName: Full=dGATA-C;
+Length: 486
+	******************************************************************
+	HSP 1
+	Bit score: 176.022
+	Score: 445
+	E-value: 4.19907e-43
+	Start in query: 225
+	End in query: 329
+	Start in subject: 257
+	End in subject: 367
+	Number of identities: 80
+	Number of positives: 89
+	Number of gaps: 6
+	Alignment length: 111
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIV------SKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGATSTPLWRRDGTGHYLCNACGLYYKMNGQNRPLIKPKRRLTLQSLQSAAKRAGTSCANCKTTTTTLWRRNASGEPVCNACGLYYKLHNVNRPLTMKKEGIQT
+	Middle line:                              E RECVNCGAT+TPLWRRD TGHYLCNACGLY+KMNGQNRPLI+PK+RL +      +KRAG            LWRRNASG+PVCNACGLYYKLH VNRPLTM+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 59.3066
+	Score: 142
+	E-value: 5.9225e-08
+	Start in query: 213
+	End in query: 278
+	Start in subject: 301
+	End in subject: 370
+	Number of identities: 30
+	Number of positives: 39
+	Number of gaps: 4
+	Alignment length: 70
+	Alignment string for query (with gaps):   PKLRGTLPLPPCEARE----CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): PKRRLTLQSLQSAAKRAGTSCANCKTTTTTLWRRNASGEPVCNACGLYYKLHNVNRPLTMKKEGIQTRNR
+	Middle line:                              PK R TL      A+     C NC  T T LWRR+ +G  +CNACGLY+K++  NRPL   K+ +    R
+	******************************************************************
+----------------------------------------------------------------------
+Hit #19
+lcl|sp:PNR_DROME
+sp:PNR_DROME [P52168] RecName: Full=GATA-binding factor A; AltName: Full=Protein pannier; AltName: Full=Transcription factor GATA-A; AltName: Full=dGATA-A;
+Length: 540
+	******************************************************************
+	HSP 1
+	Bit score: 169.474
+	Score: 428
+	E-value: 3.76962e-41
+	Start in query: 225
+	End in query: 329
+	Start in subject: 165
+	End in subject: 272
+	Number of identities: 76
+	Number of positives: 82
+	Number of gaps: 3
+	Alignment length: 108
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLI---VSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAISTPLWRRDGTGHYLCNACGLYHKMNGMNRPLIKPSKRLVSATATRRMGLCCTNCGTRTTTLWRRNNDGEPVCNACGLYYKLHGVNRPLAMRKDGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P KRL+    ++R G            LWRRN  G+PVCNACGLYYKLH VNRPL MRKDGIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 61.6178
+	Score: 148
+	E-value: 1.31901e-08
+	Start in query: 229
+	End in query: 278
+	Start in subject: 226
+	End in subject: 275
+	Number of identities: 26
+	Number of positives: 32
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCGTRTTTLWRRNNDGEPVCNACGLYYKLHGVNRPLAMRKDGIQTRKR
+	Middle line:                              C NCG   T LWRR+  G  +CNACGLY+K++G NRPL   K  +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #20
+lcl|sp:GATA4_CANLF
+sp:GATA4_CANLF [Q0Q0E4] RecName: Full=Transcription factor GATA-4; AltName: Full=GATA-binding factor 4;
+Length: 442
+	******************************************************************
+	HSP 1
+	Bit score: 166.007
+	Score: 419
+	E-value: 4.8432e-40
+	Start in query: 225
+	End in query: 329
+	Start in subject: 213
+	End in subject: 317
+	Number of identities: 74
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P++RL  S+R G            LWRRNA G+PVCNACGLY KLH V RPL MRK+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.6102
+	Score: 135
+	E-value: 4.03593e-07
+	Start in query: 228
+	End in query: 278
+	Start in subject: 270
+	End in subject: 320
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 51
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): SCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKR
+	Middle line:                               C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #21
+lcl|sp:GATA4_HUMAN
+sp:GATA4_HUMAN [P43694] RecName: Full=Transcription factor GATA-4; AltName: Full=GATA-binding factor 4;
+Length: 442
+	******************************************************************
+	HSP 1
+	Bit score: 165.622
+	Score: 418
+	E-value: 5.7707e-40
+	Start in query: 225
+	End in query: 329
+	Start in subject: 213
+	End in subject: 317
+	Number of identities: 74
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P++RL  S+R G            LWRRNA G+PVCNACGLY KLH V RPL MRK+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.6102
+	Score: 135
+	E-value: 4.13823e-07
+	Start in query: 228
+	End in query: 278
+	Start in subject: 270
+	End in subject: 320
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 51
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): SCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKR
+	Middle line:                               C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #22
+lcl|sp:GATA4_MOUSE
+sp:GATA4_MOUSE [Q08369] RecName: Full=Transcription factor GATA-4; AltName: Full=GATA-binding factor 4;
+Length: 441
+	******************************************************************
+	HSP 1
+	Bit score: 165.622
+	Score: 418
+	E-value: 6.27286e-40
+	Start in query: 225
+	End in query: 329
+	Start in subject: 212
+	End in subject: 316
+	Number of identities: 74
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P++RL  S+R G            LWRRNA G+PVCNACGLY KLH V RPL MRK+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.6102
+	Score: 135
+	E-value: 4.31452e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 270
+	End in subject: 319
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #23
+lcl|sp:GATA4_RAT
+sp:GATA4_RAT [P46152] RecName: Full=Transcription factor GATA-4; AltName: Full=DNA-binding protein GATA-GT2; AltName: Full=GATA-binding factor 4;
+Length: 440
+	******************************************************************
+	HSP 1
+	Bit score: 165.622
+	Score: 418
+	E-value: 6.48575e-40
+	Start in query: 225
+	End in query: 329
+	Start in subject: 212
+	End in subject: 316
+	Number of identities: 74
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P++RL  S+R G            LWRRNA G+PVCNACGLY KLH V RPL MRK+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.6102
+	Score: 135
+	E-value: 4.35067e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 270
+	End in subject: 319
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCQTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #24
+lcl|sp:GATA4_XENLA
+sp:GATA4_XENLA [Q91677] RecName: Full=Transcription factor GATA-4; AltName: Full=GATA-binding factor 4; Short=xGATA-4;
+Length: 392
+	******************************************************************
+	HSP 1
+	Bit score: 165.622
+	Score: 418
+	E-value: 6.70586e-40
+	Start in query: 225
+	End in query: 329
+	Start in subject: 180
+	End in subject: 284
+	Number of identities: 73
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQRRLSASRRVGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P++RL  S+R G            LWRRNA G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.6102
+	Score: 135
+	E-value: 3.62106e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 238
+	End in subject: 287
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #25
+lcl|sp:GATA5_MOUSE
+sp:GATA5_MOUSE [P97489] RecName: Full=Transcription factor GATA-5; AltName: Full=GATA-binding factor 5;
+Length: 404
+	******************************************************************
+	HSP 1
+	Bit score: 164.466
+	Score: 415
+	E-value: 1.16309e-39
+	Start in query: 223
+	End in query: 329
+	Start in subject: 190
+	End in subject: 296
+	Number of identities: 73
+	Number of positives: 82
+	Number of gaps: 0
+	Alignment length: 107
+	Alignment string for query (with gaps):   PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PGEGRECVNCGALSTPLWRRDGTGHYLCNACGLYHKMNGVNRPLVRPQKRLSSSRRSGLCCSNCHTATTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQT
+	Middle line:                              P E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPL+RP+KRL  S+R+G            LWRRN+ G+PVCNACGLY KLH V RPL M+K+ IQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.8398
+	Score: 133
+	E-value: 5.92422e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 250
+	End in subject: 299
+	Number of identities: 24
+	Number of positives: 30
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CSNCHTATTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKR
+	Middle line:                              C NC    T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #26
+lcl|sp:GATA4_CHICK
+sp:GATA4_CHICK [P43691] RecName: Full=Transcription factor GATA-4; AltName: Full=GATA-binding factor 4; Flags: Fragment;
+Length: 380
+	******************************************************************
+	HSP 1
+	Bit score: 164.466
+	Score: 415
+	E-value: 1.43287e-39
+	Start in query: 225
+	End in query: 329
+	Start in subject: 153
+	End in subject: 257
+	Number of identities: 73
+	Number of positives: 80
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLFKPQRRLSASRRVGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPL +P++RL  S+R G            LWRRNA G+PVCNACGLY KLH V RPL MRK+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.225
+	Score: 134
+	E-value: 5.44998e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 211
+	End in subject: 260
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMRKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #27
+lcl|sp:GAT5A_XENLA
+sp:GAT5A_XENLA [P43695] RecName: Full=GATA-binding factor 5-A; AltName: Full=Transcription factor xGATA-5A;
+Length: 390
+	******************************************************************
+	HSP 1
+	Bit score: 164.081
+	Score: 414
+	E-value: 1.69309e-39
+	Start in query: 223
+	End in query: 329
+	Start in subject: 177
+	End in subject: 283
+	Number of identities: 74
+	Number of positives: 82
+	Number of gaps: 0
+	Alignment length: 107
+	Alignment string for query (with gaps):   PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PGEGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGMNRPLIKPQKRLSSSRRAGLCCTNCHTSTTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQT
+	Middle line:                              P E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P+KRL  S+RAG            LWRRN+ G+PVCNACGLY KLH V RPL M+K+ IQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.225
+	Score: 134
+	E-value: 5.54169e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 237
+	End in subject: 286
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCHTSTTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKR
+	Middle line:                              C NC  + T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #28
+lcl|sp:GATA5_HUMAN
+sp:GATA5_HUMAN [Q9BWX5] RecName: Full=Transcription factor GATA-5; AltName: Full=GATA-binding factor 5;
+Length: 397
+	******************************************************************
+	HSP 1
+	Bit score: 164.081
+	Score: 414
+	E-value: 1.85583e-39
+	Start in query: 223
+	End in query: 329
+	Start in subject: 183
+	End in subject: 289
+	Number of identities: 74
+	Number of positives: 82
+	Number of gaps: 0
+	Alignment length: 107
+	Alignment string for query (with gaps):   PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PGEGRECVNCGALSTPLWRRDGTGHYLCNACGLYHKMNGVNRPLVRPQKRLSSSRRAGLCCTNCHTTNTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQT
+	Middle line:                              P E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPL+RP+KRL  S+RAG            LWRRN+ G+PVCNACGLY KLH V RPL M+K+ IQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 47.3654
+	Score: 111
+	E-value: 0.000259578
+	Start in query: 239
+	End in query: 278
+	Start in subject: 253
+	End in subject: 292
+	Number of identities: 20
+	Number of positives: 26
+	Number of gaps: 0
+	Alignment length: 40
+	Alignment string for query (with gaps):   LWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): LWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKR
+	Middle line:                              LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #29
+lcl|sp:GATA5_BOVIN
+sp:GATA5_BOVIN [Q3SZJ5] RecName: Full=Transcription factor GATA-5; AltName: Full=GATA-binding factor 5;
+Length: 403
+	******************************************************************
+	HSP 1
+	Bit score: 163.696
+	Score: 413
+	E-value: 2.22977e-39
+	Start in query: 223
+	End in query: 329
+	Start in subject: 188
+	End in subject: 294
+	Number of identities: 74
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 107
+	Alignment string for query (with gaps):   PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PGEGRECVNCGALSTPLWRRDGTGHYLCNACGLYHKMNGVNRPLVRPQKRLSSSRRAGLCCTNCHTTTTTLWRRNVDGEPVCNACGLYMKLHGVPRPLAMKKESIQT
+	Middle line:                              P E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPL+RP+KRL  S+RAG            LWRRN  G+PVCNACGLY KLH V RPL M+K+ IQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 46.9802
+	Score: 110
+	E-value: 0.000314494
+	Start in query: 239
+	End in query: 278
+	Start in subject: 258
+	End in subject: 297
+	Number of identities: 20
+	Number of positives: 26
+	Number of gaps: 0
+	Alignment length: 40
+	Alignment string for query (with gaps):   LWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): LWRRNVDGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKR
+	Middle line:                              LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #30
+lcl|sp:GAT5B_XENLA
+sp:GAT5B_XENLA [P43696] RecName: Full=GATA-binding factor 5-B; AltName: Full=Transcription factor xGATA-5B;
+Length: 388
+	******************************************************************
+	HSP 1
+	Bit score: 161.77
+	Score: 408
+	E-value: 7.92599e-39
+	Start in query: 225
+	End in query: 329
+	Start in subject: 180
+	End in subject: 284
+	Number of identities: 73
+	Number of positives: 81
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAMSTPLWRRDGTGHYLCNACGLYHKMNGINRPLIKPQKRLSSSRRAGLCCTNCHTSTTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQT
+	Middle line:                              E RECVNCGA +TPLWRRD TGHYLCNACGLYHKMNG NRPLI+P+KRL  S+RAG            LWRRN+ G+PVCNACGLY KLH V RPL M+K+ IQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.8398
+	Score: 133
+	E-value: 5.82618e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 238
+	End in subject: 287
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCHTSTTTLWRRNSEGEPVCNACGLYMKLHGVPRPLAMKKESIQTRKR
+	Middle line:                              C NC  + T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #31
+lcl|sp:GATA6_HUMAN
+sp:GATA6_HUMAN [Q92908] RecName: Full=Transcription factor GATA-6; AltName: Full=GATA-binding factor 6;
+Length: 595
+	******************************************************************
+	HSP 1
+	Bit score: 155.992
+	Score: 393
+	E-value: 5.01193e-37
+	Start in query: 225
+	End in query: 329
+	Start in subject: 386
+	End in subject: 490
+	Number of identities: 70
+	Number of positives: 80
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSIQTPLWRRDGTGHYLCNACGLYSKMNGLSRPLIKPQKRVPSSRRLGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TGHYLCNACGLY KMNG +RPLI+P+KR+  S+R G            LWRRNA G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.3806
+	Score: 137
+	E-value: 2.48755e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 444
+	End in subject: 493
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #32
+lcl|sp:GATA6_MOUSE
+sp:GATA6_MOUSE [Q61169] RecName: Full=Transcription factor GATA-6; AltName: Full=GATA-binding factor 6;
+Length: 589
+	******************************************************************
+	HSP 1
+	Bit score: 155.606
+	Score: 392
+	E-value: 5.4937e-37
+	Start in query: 225
+	End in query: 329
+	Start in subject: 380
+	End in subject: 484
+	Number of identities: 70
+	Number of positives: 80
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSIQTPLWRRDGTGHYLCNACGLYSKMNGLSRPLIKPQKRVPSSRRLGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TGHYLCNACGLY KMNG +RPLI+P+KR+  S+R G            LWRRNA G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.9954
+	Score: 136
+	E-value: 2.89066e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 438
+	End in subject: 487
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #33
+lcl|sp:GATA6_RAT
+sp:GATA6_RAT [P46153] RecName: Full=Transcription factor GATA-6; AltName: Full=DNA-binding protein GATA-GT2; AltName: Full=GATA-binding factor 6;
+Length: 587
+	******************************************************************
+	HSP 1
+	Bit score: 155.606
+	Score: 392
+	E-value: 5.87292e-37
+	Start in query: 225
+	End in query: 329
+	Start in subject: 380
+	End in subject: 484
+	Number of identities: 70
+	Number of positives: 80
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSIQTPLWRRDGTGHYLCNACGLYSKMNGLSRPLIKPQKRVPSSRRLGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TGHYLCNACGLY KMNG +RPLI+P+KR+  S+R G            LWRRNA G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.9954
+	Score: 136
+	E-value: 2.91488e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 438
+	End in subject: 487
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #34
+lcl|sp:GATA5_CHICK
+sp:GATA5_CHICK [P43692] RecName: Full=Transcription factor GATA-5; AltName: Full=GATA-binding factor 5;
+Length: 391
+	******************************************************************
+	HSP 1
+	Bit score: 154.836
+	Score: 390
+	E-value: 1.08894e-36
+	Start in query: 223
+	End in query: 329
+	Start in subject: 180
+	End in subject: 285
+	Number of identities: 72
+	Number of positives: 81
+	Number of gaps: 1
+	Alignment length: 107
+	Alignment string for query (with gaps):   PCEARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): PGDGRECVNCGAMSTPLWRKDGTGHYLCNACGLYHKMNGINRPL-KPQKRLSSSRRAGLCCTNCHTTNTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKESIQT
+	Middle line:                              P + RECVNCGA +TPLWR+D TGHYLCNACGLYHKMNG NRPL +P+KRL  S+RAG            LWRRNA G+PVCNACGLY KLH V RPL M+K+ IQT
+	******************************************************************
+----------------------------------------------------------------------
+Hit #35
+lcl|sp:GAT6B_XENLA
+sp:GAT6B_XENLA [P70005] RecName: Full=GATA-binding factor 6-B; AltName: Full=Transcription factor xGATA-6b;
+Length: 391
+	******************************************************************
+	HSP 1
+	Bit score: 154.451
+	Score: 389
+	E-value: 1.36409e-36
+	Start in query: 225
+	End in query: 329
+	Start in subject: 178
+	End in subject: 282
+	Number of identities: 69
+	Number of positives: 79
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSVQTPLWRRDGTGHYLCNACGLYSKMNGLSRPLIKPQKRVPSSRRIGLACANCHTTTTTLWRRNTEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TGHYLCNACGLY KMNG +RPLI+P+KR+  S+R G            LWRRN  G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.6102
+	Score: 135
+	E-value: 4.13823e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 236
+	End in subject: 285
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNTEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #36
+lcl|sp:GAT6A_XENLA
+sp:GAT6A_XENLA [Q91678] RecName: Full=GATA-binding factor 6-A; AltName: Full=Transcription factor xGATA-6a;
+Length: 391
+	******************************************************************
+	HSP 1
+	Bit score: 153.68
+	Score: 387
+	E-value: 2.65909e-36
+	Start in query: 225
+	End in query: 329
+	Start in subject: 178
+	End in subject: 282
+	Number of identities: 68
+	Number of positives: 79
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSVQTPLWRRDGTGHFLCNACGLYSKMNGLSRPLIKPQKRVPSSRRIGLACANCHTSTTTLWRRNTEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TGH+LCNACGLY KMNG +RPLI+P+KR+  S+R G            LWRRN  G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.0694
+	Score: 131
+	E-value: 9.93795e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 236
+	End in subject: 285
+	Number of identities: 24
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTSTTTLWRRNTEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  + T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #37
+lcl|sp:GATA6_CHICK
+sp:GATA6_CHICK [P43693] RecName: Full=Transcription factor GATA-6; AltName: Full=GATA-binding factor 6;
+Length: 387
+	******************************************************************
+	HSP 1
+	Bit score: 152.91
+	Score: 385
+	E-value: 4.38684e-36
+	Start in query: 225
+	End in query: 329
+	Start in subject: 177
+	End in subject: 281
+	Number of identities: 69
+	Number of positives: 80
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSIQTPLWRRDGTGNYLCNACGLYTKMNGLSRPLIKPQKRVPSSRRLGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TG+YLCNACGLY KMNG +RPLI+P+KR+  S+R G            LWRRNA G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.9954
+	Score: 136
+	E-value: 3.24884e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 235
+	End in subject: 284
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #38
+lcl|sp:GATAB_BOMMO
+sp:GATAB_BOMMO [P52167] RecName: Full=Transcription factor BCFI; AltName: Full=BmGATA-beta; Short=GATA-beta;
+Length: 508
+	******************************************************************
+	HSP 1
+	Bit score: 151.754
+	Score: 382
+	E-value: 9.29566e-36
+	Start in query: 225
+	End in query: 329
+	Start in subject: 265
+	End in subject: 368
+	Number of identities: 70
+	Number of positives: 78
+	Number of gaps: 1
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EGRECVNCGAIHTPLWHRDGTGHYLCNACGLYNKMNGMNRPLKQP-RRLMAAKRPGTMCTNCQTTATSLWRRNVQGETVCNACGLYFKLHNVNRPLTMKKDSIQT
+	Middle line:                              E RECVNCGA  TPLW RD TGHYLCNACGLY+KMNG NRPL +P +RL+ +KR G            LWRRN  G+ VCNACGLY+KLH VNRPLTM+KD IQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 59.6918
+	Score: 143
+	E-value: 5.18235e-08
+	Start in query: 229
+	End in query: 278
+	Start in subject: 322
+	End in subject: 371
+	Number of identities: 26
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCQTTATSLWRRNVQGETVCNACGLYFKLHNVNRPLTMKKDSIQTRKR
+	Middle line:                              C NC  TAT LWRR+  G  +CNACGLY K++  NRPL   K  +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #39
+lcl|sp:ELT1_CAEEL
+sp:ELT1_CAEEL [P28515] RecName: Full=Transcription factor elt-1 {ECO:0000305};
+Length: 416
+	******************************************************************
+	HSP 1
+	Bit score: 149.443
+	Score: 376
+	E-value: 4.89086e-35
+	Start in query: 225
+	End in query: 329
+	Start in subject: 213
+	End in subject: 318
+	Number of identities: 67
+	Number of positives: 75
+	Number of gaps: 1
+	Alignment length: 106
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLI-VSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): EDRECVNCGVHNTPLWRRDGSGNYLCNACGLYFKMNHHARPLVKPKKRQQNAQKRTGIECVNCRTNTTTLWRRNGEGHPVCNACGLYFKLHKVERPITMKKDGIQT
+	Middle line:                              E RECVNCG   TPLWRRD +G+YLCNACGLY KMN   RPL++PKKR     KR G            LWRRN  G PVCNACGLY+KLH+V RP+TM+KDGIQT
+	******************************************************************
+----------------------------------------------------------------------
+Hit #40
+lcl|sp:GATA6_PIG
+sp:GATA6_PIG [Q95JA5] RecName: Full=Transcription factor GATA-6; AltName: Full=GATA-binding factor 6; Flags: Fragment;
+Length: 451
+	******************************************************************
+	HSP 1
+	Bit score: 147.132
+	Score: 370
+	E-value: 2.10631e-34
+	Start in query: 225
+	End in query: 329
+	Start in subject: 242
+	End in subject: 346
+	Number of identities: 67
+	Number of positives: 77
+	Number of gaps: 0
+	Alignment length: 105
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): ESRECVNCGSIQTPLWRRDGTGHYLCNRCGLYSKMNGLSGPLIKPQKPVPSSRRLGLSCANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQT
+	Middle line:                              E+RECVNCG+  TPLWRRD TGHYLCN CGLY KMNG + PLI+P+K +  S+R G            LWRRNA G+PVCNACGLY KLH V RPL M+K+GIQT
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.9954
+	Score: 136
+	E-value: 2.79578e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 300
+	End in subject: 349
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CANCHTTTTTLWRRNAEGEPVCNACGLYMKLHGVPRPLAMKKEGIQTRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++G  RPL   K+ +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #41
+lcl|sp:YCF8_SCHPO
+sp:YCF8_SCHPO [O94720] RecName: Full=GATA zinc finger domain-containing protein C1393.08;
+Length: 557
+	******************************************************************
+	HSP 1
+	Bit score: 91.6633
+	Score: 226
+	E-value: 1.0073e-17
+	Start in query: 229
+	End in query: 327
+	Start in subject: 365
+	End in subject: 463
+	Number of identities: 44
+	Number of positives: 56
+	Number of gaps: 2
+	Alignment length: 100
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGI
+	Alignment string for subject (with gaps): CFNCGVTETPLWRRTSDKLNFLCNACGLYNKQYGVMRPL-SPRNKGSSKALENLVCANCSSTKTSLWRKDRHGQTVCNACGLYARLHGHNRPIGLKKNKI
+	Middle line:                              C NCG T TPLWRR     ++LCNACGLY+K  G  RPL  P+ +                    LWR++  G  VCNACGLY +LH  NRP+ ++K+ I
+	******************************************************************
+----------------------------------------------------------------------
+Hit #42
+lcl|sp:SRP_DROME
+sp:SRP_DROME [P52172] RecName: Full=Box A-binding factor; Short=ABF; AltName: Full=GATA-binding factor B; AltName: Full=Protein serpent; AltName: Full=Transcription factor GATA-B; AltName: Full=dGATA-B;
+Length: 1264
+	******************************************************************
+	HSP 1
+	Bit score: 79.337
+	Score: 194
+	E-value: 4.96196e-14
+	Start in query: 271
+	End in query: 328
+	Start in subject: 791
+	End in subject: 848
+	Number of identities: 36
+	Number of positives: 40
+	Number of gaps: 0
+	Alignment length: 58
+	Alignment string for query (with gaps):   KRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): RRLSASKRAGLSCSNCHTTHTSLWRRNPAGEPVCNACGLYYKLHSVPRPLTMKKDTIQ
+	Middle line:                              +RL  SKRAG            LWRRN +G+PVCNACGLYYKLH V RPLTM+KD IQ
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 54.299
+	Score: 129
+	E-value: 1.92117e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 803
+	End in subject: 852
+	Number of identities: 24
+	Number of positives: 30
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CSNCHTTHTSLWRRNPAGEPVCNACGLYYKLHSVPRPLTMKKDTIQKRKR
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY+K++   RPL   K  +   KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #43
+lcl|sp:SREA_COCH4
+sp:SREA_COCH4 [N4XMB0] RecName: Full=GATA-type transcription factor SRE1 {ECO:0000303|PubMed:23980626}; AltName: Full=Siderophore uptake regulator SRE1 {ECO:0000303|PubMed:23980626};
+Length: 520
+	******************************************************************
+	HSP 1
+	Bit score: 71.2478
+	Score: 173
+	E-value: 1.35127e-11
+	Start in query: 229
+	End in query: 278
+	Start in subject: 287
+	End in subject: 336
+	Number of identities: 28
+	Number of positives: 36
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CQNCGTTITPLWRRDDAGHIICNACGLYYKLHGTHRPVAMKKQEIKRRKR
+	Middle line:                              C NCG T TPLWRRD  GH +CNACGLY+K++G +RP+   K+ +   KR
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.8398
+	Score: 133
+	E-value: 5.97385e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 297
+	End in subject: 332
+	Number of identities: 21
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDDAGHIICNACGLYYKLHGTHRPVAMKKQEIK
+	Middle line:                              LWRR+ +G  +CNACGLYYKLH  +RP+ M+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 55.4546
+	Score: 132
+	E-value: 9.21901e-07
+	Start in query: 229
+	End in query: 266
+	Start in subject: 131
+	End in subject: 168
+	Number of identities: 22
+	Number of positives: 25
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CSNCKTTQTPLWRRSPAGETVCNACGLYMKARNQSRPV
+	Middle line:                              C NC  T TPLWRR   G  +CNACGLY K   Q+RP+
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 45.4394
+	Score: 106
+	E-value: 0.000946091
+	Start in query: 293
+	End in query: 325
+	Start in subject: 141
+	End in subject: 173
+	Number of identities: 16
+	Number of positives: 25
+	Number of gaps: 0
+	Alignment length: 33
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKD
+	Alignment string for subject (with gaps): LWRRSPAGETVCNACGLYMKARNQSRPVNLKRN
+	Middle line:                              LWRR+ +G+ VCNACGLY K    +RP+ ++++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #44
+lcl|sp:SREA_NEUCR
+sp:SREA_NEUCR [Q1K8E7] RecName: Full=GATA-type transcription factor sre {ECO:0000303|PubMed:9790585}; AltName: Full=Siderophore uptake regulator sreA {ECO:0000303|PubMed:9790585};
+Length: 587
+	******************************************************************
+	HSP 1
+	Bit score: 70.8626
+	Score: 172
+	E-value: 2.15609e-11
+	Start in query: 229
+	End in query: 274
+	Start in subject: 282
+	End in subject: 333
+	Number of identities: 29
+	Number of positives: 38
+	Number of gaps: 6
+	Alignment length: 52
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP------LIRPKKRLI
+	Alignment string for subject (with gaps): CQNCGTTITPLWRRDEAGHTICNACGLYYKLHGVHRPVTMKKAIIKRRKRVI
+	Middle line:                              C NCG T TPLWRRD  GH +CNACGLY+K++G +RP      +I+ +KR+I
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 59.3066
+	Score: 142
+	E-value: 5.54008e-08
+	Start in query: 293
+	End in query: 328
+	Start in subject: 292
+	End in subject: 327
+	Number of identities: 23
+	Number of positives: 30
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDEAGHTICNACGLYYKLHGVHRPVTMKKAIIK
+	Middle line:                              LWRR+ +G  +CNACGLYYKLH V+RP+TM+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 52.7582
+	Score: 125
+	E-value: 5.63657e-06
+	Start in query: 229
+	End in query: 265
+	Start in subject: 118
+	End in subject: 154
+	Number of identities: 22
+	Number of positives: 23
+	Number of gaps: 0
+	Alignment length: 37
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP
+	Alignment string for subject (with gaps): CSNCGTTHTPLWRRSPQGAIICNACGLYLKARNAARP
+	Middle line:                              C NCG T TPLWRR   G  +CNACGLY K     RP
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 41.9726
+	Score: 97
+	E-value: 0.00915301
+	Start in query: 293
+	End in query: 324
+	Start in subject: 128
+	End in subject: 159
+	Number of identities: 16
+	Number of positives: 20
+	Number of gaps: 0
+	Alignment length: 32
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): LWRRSPQGAIICNACGLYLKARNAARPANIRR
+	Middle line:                              LWRR+  G  +CNACGLY K     RP  +R+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #45
+lcl|sp:SREA_AJECA
+sp:SREA_AJECA [B4XXY3] RecName: Full=GATA-type transcription factor SRE1 {ECO:0000303|PubMed:18549241}; AltName: Full=Siderophore uptake regulator SRE1 {ECO:0000303|PubMed:18549241};
+Length: 630
+	******************************************************************
+	HSP 1
+	Bit score: 68.1662
+	Score: 165
+	E-value: 1.39754e-10
+	Start in query: 229
+	End in query: 278
+	Start in subject: 291
+	End in subject: 346
+	Number of identities: 29
+	Number of positives: 38
+	Number of gaps: 6
+	Alignment length: 56
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP------LIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CQNCQTTVTPLWRRDENGHPICNACGLYHKLHGAYRPPTMKKSIIKRRKRVVPAMR
+	Middle line:                              C NC  T TPLWRRD  GH +CNACGLYHK++G  RP      +I+ +KR++ + R
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.13573e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 301
+	End in subject: 336
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDENGHPICNACGLYHKLHGAYRPPTMKKSIIK
+	Middle line:                              LWRR+ +G P+CNACGLY+KLH   RP TM+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 54.299
+	Score: 129
+	E-value: 1.84267e-06
+	Start in query: 229
+	End in query: 274
+	Start in subject: 128
+	End in subject: 173
+	Number of identities: 24
+	Number of positives: 27
+	Number of gaps: 0
+	Alignment length: 46
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLI
+	Alignment string for subject (with gaps): CSNCGTKRTPLWRRSPTGATICNACGLYLKARNTDRPTHRSRSLLT
+	Middle line:                              C NCG   TPLWRR  TG  +CNACGLY K    +RP  R +  L 
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 40.4318
+	Score: 93
+	E-value: 0.0328082
+	Start in query: 293
+	End in query: 319
+	Start in subject: 138
+	End in subject: 164
+	Number of identities: 15
+	Number of positives: 19
+	Number of gaps: 0
+	Alignment length: 27
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRP
+	Alignment string for subject (with gaps): LWRRSPTGATICNACGLYLKARNTDRP
+	Middle line:                              LWRR+ +G  +CNACGLY K    +RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #46
+lcl|sp:SREA_EMENI
+sp:SREA_EMENI [G5EB20] RecName: Full=GATA-type transcription factor sreA {ECO:0000303|PubMed:9988696}; AltName: Full=Siderophore uptake regulator sreA {ECO:0000303|PubMed:9988696};
+Length: 549
+	******************************************************************
+	HSP 1
+	Bit score: 67.781
+	Score: 164
+	E-value: 1.76533e-10
+	Start in query: 229
+	End in query: 274
+	Start in subject: 251
+	End in subject: 302
+	Number of identities: 28
+	Number of positives: 37
+	Number of gaps: 6
+	Alignment length: 52
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP------LIRPKKRLI
+	Alignment string for subject (with gaps): CQNCGTTVTPLWRRDENGHPICNACGLYYKLHGSYRPTTMKKTIIKRRKRVV
+	Middle line:                              C NCG T TPLWRRD  GH +CNACGLY+K++G  RP      +I+ +KR++
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 56.9954
+	Score: 136
+	E-value: 2.68154e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 261
+	End in subject: 296
+	Number of identities: 23
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDENGHPICNACGLYYKLHGSYRPTTMKKTIIK
+	Middle line:                              LWRR+ +G P+CNACGLYYKLH   RP TM+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 53.1434
+	Score: 126
+	E-value: 4.17411e-06
+	Start in query: 229
+	End in query: 272
+	Start in subject: 106
+	End in subject: 145
+	Number of identities: 25
+	Number of positives: 28
+	Number of gaps: 4
+	Alignment length: 44
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKR
+	Alignment string for subject (with gaps): CSNCGTKSTPLWRRSPTGAMICNACGLYLKA----RNVARPTKR
+	Middle line:                              C NCG  +TPLWRR  TG  +CNACGLY K     R + RP KR
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 39.6614
+	Score: 91
+	E-value: 0.0465774
+	Start in query: 293
+	End in query: 324
+	Start in subject: 116
+	End in subject: 147
+	Number of identities: 16
+	Number of positives: 20
+	Number of gaps: 0
+	Alignment length: 32
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): LWRRSPTGAMICNACGLYLKARNVARPTKRNR
+	Middle line:                              LWRR+ +G  +CNACGLY K   V RP    +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #47
+lcl|sp:URB1_USTMA
+sp:URB1_USTMA [P40349] RecName: Full=Siderophore biosynthesis regulatory protein URBS1;
+Length: 1084
+	******************************************************************
+	HSP 1
+	Bit score: 67.781
+	Score: 164
+	E-value: 1.85595e-10
+	Start in query: 229
+	End in query: 273
+	Start in subject: 482
+	End in subject: 532
+	Number of identities: 27
+	Number of positives: 36
+	Number of gaps: 6
+	Alignment length: 51
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL------IRPKKRL
+	Alignment string for subject (with gaps): CTNCQTTTTPLWRRDEDGNNICNACGLYHKLHGTHRPIGMKKSVIKRRKRI
+	Middle line:                              C NC  T TPLWRRD  G+ +CNACGLYHK++G +RP+      I+ +KR+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 54.6842
+	Score: 130
+	E-value: 1.61238e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 492
+	End in subject: 527
+	Number of identities: 20
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDEDGNNICNACGLYHKLHGTHRPIGMKKSVIK
+	Middle line:                              LWRR+  G+ +CNACGLY+KLH  +RP+ M+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 51.6026
+	Score: 122
+	E-value: 1.3764e-05
+	Start in query: 229
+	End in query: 264
+	Start in subject: 338
+	End in subject: 373
+	Number of identities: 21
+	Number of positives: 25
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNR
+	Alignment string for subject (with gaps): CSNCGVTSTPLWRRAPDGSTICNACGLYIKSHSTHR
+	Middle line:                              C NCG T+TPLWRR   G  +CNACGLY K +  +R
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 41.9726
+	Score: 97
+	E-value: 0.00994948
+	Start in query: 293
+	End in query: 326
+	Start in subject: 348
+	End in subject: 381
+	Number of identities: 17
+	Number of positives: 20
+	Number of gaps: 0
+	Alignment length: 34
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDG
+	Alignment string for subject (with gaps): LWRRAPDGSTICNACGLYIKSHSTHRSASNRLSG
+	Middle line:                              LWRR   G  +CNACGLY K H  +R  + R  G
+	******************************************************************
+----------------------------------------------------------------------
+Hit #48
+lcl|sp:ELT2_CAEEL
+sp:ELT2_CAEEL [Q10655] RecName: Full=Transcription factor elt-2 {ECO:0000305};
+Length: 433
+	******************************************************************
+	HSP 1
+	Bit score: 67.0106
+	Score: 162
+	E-value: 2.81675e-10
+	Start in query: 275
+	End in query: 326
+	Start in subject: 229
+	End in subject: 280
+	Number of identities: 28
+	Number of positives: 34
+	Number of gaps: 0
+	Alignment length: 52
+	Alignment string for query (with gaps):   VSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDG
+	Alignment string for subject (with gaps): ASRRQGLVCSNCNGTNTTLWRRNAEGDPVCNACGLYFKLHHIPRPTSMKKEG
+	Middle line:                               S+R G            LWRRNA GDPVCNACGLY+KLH + RP +M+K+G
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 48.521
+	Score: 114
+	E-value: 0.000104542
+	Start in query: 229
+	End in query: 278
+	Start in subject: 237
+	End in subject: 286
+	Number of identities: 21
+	Number of positives: 30
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CSNCNGTNTTLWRRNAEGDPVCNACGLYFKLHHIPRPTSMKKEGALQTRK
+	Middle line:                              C NC  T T LWRR+  G  +CNACGLY K++   RP    K+  + +++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #49
+lcl|sp:SREA_ASPFU
+sp:SREA_ASPFU [Q4WV91] RecName: Full=GATA-type transcription factor sreA {ECO:0000303|PubMed:18721228}; AltName: Full=Siderophore uptake regulator sreA {ECO:0000303|PubMed:18721228};
+Length: 546
+	******************************************************************
+	HSP 1
+	Bit score: 67.0106
+	Score: 162
+	E-value: 2.98617e-10
+	Start in query: 229
+	End in query: 274
+	Start in subject: 253
+	End in subject: 304
+	Number of identities: 28
+	Number of positives: 37
+	Number of gaps: 6
+	Alignment length: 52
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP------LIRPKKRLI
+	Alignment string for subject (with gaps): CQNCGTTVTPLWRRDENGHPICNACGLYYKLHGCYRPTTMKKSIIKRRKRVV
+	Middle line:                              C NCG T TPLWRRD  GH +CNACGLY+K++G  RP      +I+ +KR++
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 57.7658
+	Score: 138
+	E-value: 1.53321e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 263
+	End in subject: 298
+	Number of identities: 23
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDENGHPICNACGLYYKLHGCYRPTTMKKSIIK
+	Middle line:                              LWRR+ +G P+CNACGLYYKLH   RP TM+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 53.5286
+	Score: 127
+	E-value: 3.0911e-06
+	Start in query: 229
+	End in query: 272
+	Start in subject: 103
+	End in subject: 142
+	Number of identities: 25
+	Number of positives: 28
+	Number of gaps: 4
+	Alignment length: 44
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKR
+	Alignment string for subject (with gaps): CSNCGTKSTPLWRRSPTGAMICNACGLYLKA----RNVARPTKR
+	Middle line:                              C NCG  +TPLWRR  TG  +CNACGLY K     R + RP KR
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 40.0466
+	Score: 92
+	E-value: 0.0368734
+	Start in query: 293
+	End in query: 319
+	Start in subject: 113
+	End in subject: 139
+	Number of identities: 16
+	Number of positives: 19
+	Number of gaps: 0
+	Alignment length: 27
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRP
+	Alignment string for subject (with gaps): LWRRSPTGAMICNACGLYLKARNVARP
+	Middle line:                              LWRR+ +G  +CNACGLY K   V RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #50
+lcl|sp:SREA_ARTBC
+sp:SREA_ARTBC [D4B3J8] RecName: Full=GATA-type transcription factor sreA {ECO:0000303|PubMed:26960149}; AltName: Full=Siderophore uptake regulator sreA {ECO:0000303|PubMed:26960149};
+Length: 542
+	******************************************************************
+	HSP 1
+	Bit score: 66.6254
+	Score: 161
+	E-value: 3.96569e-10
+	Start in query: 227
+	End in query: 278
+	Start in subject: 248
+	End in subject: 297
+	Number of identities: 25
+	Number of positives: 38
+	Number of gaps: 2
+	Alignment length: 52
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): KACQNCGTTLTPLWRRDDQGNTICNACGLYYRLHGSHRPVA--MKKTVIKRR
+	Middle line:                              + C NCG T TPLWRRD  G+ +CNACGLY++++G +RP+    K+ ++ +R
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.26585e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 260
+	End in subject: 295
+	Number of identities: 20
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDDQGNTICNACGLYYRLHGSHRPVAMKKTVIK
+	Middle line:                              LWRR+  G+ +CNACGLYY+LH  +RP+ M+K  I+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #51
+lcl|sp:FEP1_SCHPO
+sp:FEP1_SCHPO [Q10134] RecName: Full=Iron-sensing transcription factor 1; AltName: Full=Transcription factor gaf2; Short=Gaf-2;
+Length: 564
+	******************************************************************
+	HSP 1
+	Bit score: 66.2402
+	Score: 160
+	E-value: 4.92644e-10
+	Start in query: 229
+	End in query: 301
+	Start in subject: 172
+	End in subject: 242
+	Number of identities: 30
+	Number of positives: 43
+	Number of gaps: 2
+	Alignment length: 73
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGD
+	Alignment string for subject (with gaps): CQNCATTNTPLWRRDESGNPICNACGLYYKIHGVHRPVTM--KKAIIKRRKRLVFNGNANESQHNLKRMSSGD
+	Middle line:                              C NC  T TPLWRRD +G+ +CNACGLY+K++G +RP+    K+ I+ +R                +R +SGD
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 62.7734
+	Score: 151
+	E-value: 5.53847e-09
+	Start in query: 293
+	End in query: 328
+	Start in subject: 182
+	End in subject: 217
+	Number of identities: 24
+	Number of positives: 32
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDESGNPICNACGLYYKIHGVHRPVTMKKAIIK
+	Middle line:                              LWRR+ SG+P+CNACGLYYK+H V+RP+TM+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 47.3654
+	Score: 111
+	E-value: 0.000238798
+	Start in query: 227
+	End in query: 266
+	Start in subject: 10
+	End in subject: 49
+	Number of identities: 20
+	Number of positives: 22
+	Number of gaps: 0
+	Alignment length: 40
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): QSCSNCHKTTTSLWRRGPDNSLLCNACGLYQKHRKHARPV
+	Middle line:                              + C NC  T T LWRR      LCNACGLY K     RP+
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 34.2686
+	Score: 77
+	E-value: 1.92451
+	Start in query: 293
+	End in query: 320
+	Start in subject: 22
+	End in subject: 49
+	Number of identities: 14
+	Number of positives: 17
+	Number of gaps: 0
+	Alignment length: 28
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPL
+	Alignment string for subject (with gaps): LWRRGPDNSLLCNACGLYQKHRKHARPV
+	Middle line:                              LWRR      +CNACGLY K  +  RP+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #52
+lcl|sp:SREP_PENCH
+sp:SREP_PENCH [Q92259] RecName: Full=GATA factor SREP;
+Length: 532
+	******************************************************************
+	HSP 1
+	Bit score: 66.2402
+	Score: 160
+	E-value: 4.96772e-10
+	Start in query: 229
+	End in query: 278
+	Start in subject: 238
+	End in subject: 293
+	Number of identities: 29
+	Number of positives: 39
+	Number of gaps: 6
+	Alignment length: 56
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP------LIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CQNCGTTVTPLWRRDEQGHPICNACGLYYKLHGCYRPTNMKKSIIKRRKRVVPALR
+	Middle line:                              C NCG T TPLWRRD  GH +CNACGLY+K++G  RP      +I+ +KR++ + R
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 55.4546
+	Score: 132
+	E-value: 8.27136e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 248
+	End in subject: 283
+	Number of identities: 22
+	Number of positives: 26
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDEQGHPICNACGLYYKLHGCYRPTNMKKSIIK
+	Middle line:                              LWRR+  G P+CNACGLYYKLH   RP  M+K  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 53.5286
+	Score: 127
+	E-value: 3.47411e-06
+	Start in query: 229
+	End in query: 268
+	Start in subject: 94
+	End in subject: 133
+	Number of identities: 23
+	Number of positives: 25
+	Number of gaps: 0
+	Alignment length: 40
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIR
+	Alignment string for subject (with gaps): CSNCGTKSTPLWRRSPTGAMICNACGLYLKARNVARPTKR
+	Middle line:                              C NCG  +TPLWRR  TG  +CNACGLY K     RP  R
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 40.0466
+	Score: 92
+	E-value: 0.0362631
+	Start in query: 293
+	End in query: 328
+	Start in subject: 104
+	End in subject: 142
+	Number of identities: 18
+	Number of positives: 24
+	Number of gaps: 3
+	Alignment length: 39
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLT---MRKDGIQ
+	Alignment string for subject (with gaps): LWRRSPTGAMICNACGLYLKARNVARPTKRNRMQSEGAE
+	Middle line:                              LWRR+ +G  +CNACGLY K   V RP     M+ +G +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #53
+lcl|sp:SFU1_CANAL
+sp:SFU1_CANAL [Q5AP95] RecName: Full=Suppressor of ferric uptake 1;
+Length: 517
+	******************************************************************
+	HSP 1
+	Bit score: 65.0846
+	Score: 157
+	E-value: 1.193e-09
+	Start in query: 229
+	End in query: 279
+	Start in subject: 184
+	End in subject: 240
+	Number of identities: 26
+	Number of positives: 40
+	Number of gaps: 6
+	Alignment length: 57
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL------IRPKKRLIVSKRA
+	Alignment string for subject (with gaps): CFNCGTTITPLWRRDDAGNTICNACGLFYRLHGSHRPIKMKRPTIKRRKRNVSDKKS
+	Middle line:                              C NCG T TPLWRRD  G+ +CNACGL+++++G +RP+      I+ +KR +  K++
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 58.9214
+	Score: 141
+	E-value: 7.79983e-08
+	Start in query: 225
+	End in query: 277
+	Start in subject: 56
+	End in subject: 110
+	Number of identities: 27
+	Number of positives: 35
+	Number of gaps: 2
+	Alignment length: 55
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRP--LIRPKKRLIVSK
+	Alignment string for subject (with gaps): DGQQCSNCGTTKTPLWRRAPDGTLICNACGLYYRSNNTHRPVNLKRPPNTIAVVK
+	Middle line:                              + ++C NCG T TPLWRR   G  +CNACGLY++ N  +RP  L RP   + V K
+	******************************************************************
+
+	******************************************************************
+	HSP 3
+	Bit score: 51.6026
+	Score: 122
+	E-value: 1.14558e-05
+	Start in query: 293
+	End in query: 328
+	Start in subject: 194
+	End in subject: 229
+	Number of identities: 18
+	Number of positives: 29
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRDDAGNTICNACGLFYRLHGSHRPIKMKRPTIK
+	Middle line:                              LWRR+ +G+ +CNACGL+Y+LH  +RP+ M++  I+
+	******************************************************************
+
+	******************************************************************
+	HSP 4
+	Bit score: 43.1282
+	Score: 100
+	E-value: 0.00404061
+	Start in query: 293
+	End in query: 324
+	Start in subject: 70
+	End in subject: 101
+	Number of identities: 15
+	Number of positives: 23
+	Number of gaps: 0
+	Alignment length: 32
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): LWRRAPDGTLICNACGLYYRSNNTHRPVNLKR
+	Middle line:                              LWRR   G  +CNACGLYY+ +  +RP+ +++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #54
+lcl|sp:ASD4_NEUCR
+sp:ASD4_NEUCR [Q9HEV5] RecName: Full=GATA type zinc finger protein asd-4; AltName: Full=Ascus development protein 4;
+Length: 426
+	******************************************************************
+	HSP 1
+	Bit score: 59.6918
+	Score: 143
+	E-value: 4.49702e-08
+	Start in query: 229
+	End in query: 266
+	Start in subject: 16
+	End in subject: 53
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CQNCATSTTPLWRRDEMGQVLCNACGLFLKLHGRPRPI
+	Middle line:                              C NC  + TPLWRRD  G  LCNACGL+ K++G+ RP+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 47.3654
+	Score: 111
+	E-value: 0.000255282
+	Start in query: 293
+	End in query: 329
+	Start in subject: 26
+	End in subject: 62
+	Number of identities: 18
+	Number of positives: 27
+	Number of gaps: 0
+	Alignment length: 37
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): LWRRDEMGQVLCNACGLFLKLHGRPRPISLKTDVIKS
+	Middle line:                              LWRR+  G  +CNACGL+ KLH   RP++++ D I++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #55
+lcl|sp:GZF3_CANAL
+sp:GZF3_CANAL [Q5A201] RecName: Full=Transcriptional regulator GZF3;
+Length: 712
+	******************************************************************
+	HSP 1
+	Bit score: 59.3066
+	Score: 142
+	E-value: 6.82507e-08
+	Start in query: 229
+	End in query: 266
+	Start in subject: 135
+	End in subject: 172
+	Number of identities: 23
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CGNCQTQTTPLWRRDETGQVLCNACGLFLKLHGRPRPI
+	Middle line:                              C NC    TPLWRRD TG  LCNACGL+ K++G+ RP+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 48.9062
+	Score: 115
+	E-value: 8.0045e-05
+	Start in query: 293
+	End in query: 329
+	Start in subject: 145
+	End in subject: 181
+	Number of identities: 18
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 37
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): LWRRDETGQVLCNACGLFLKLHGRPRPISLKTDTIKS
+	Middle line:                              LWRR+ +G  +CNACGL+ KLH   RP++++ D I++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #56
+lcl|sp:GLN3_YEAST
+sp:GLN3_YEAST [P18494] RecName: Full=Nitrogen regulatory protein GLN3;
+Length: 730
+	******************************************************************
+	HSP 1
+	Bit score: 58.151
+	Score: 139
+	E-value: 1.47056e-07
+	Start in query: 228
+	End in query: 279
+	Start in subject: 305
+	End in subject: 359
+	Number of identities: 27
+	Number of positives: 33
+	Number of gaps: 3
+	Alignment length: 55
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPK---KRLIVSKRA
+	Alignment string for subject (with gaps): QCFNCKTFKTPLWRRSPEGNTLCNACGLFQKLHGTMRPLSLKSDVIKKRISKKRA
+	Middle line:                              +C NC    TPLWRR   G+ LCNACGL+ K++G  RPL       K+ I  KRA
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 49.6766
+	Score: 117
+	E-value: 4.93359e-05
+	Start in query: 293
+	End in query: 328
+	Start in subject: 316
+	End in subject: 351
+	Number of identities: 19
+	Number of positives: 27
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRSPEGNTLCNACGLFQKLHGTMRPLSLKSDVIK
+	Middle line:                              LWRR+  G+ +CNACGL+ KLH   RPL+++ D I+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #57
+lcl|sp:DAL80_YEAST
+sp:DAL80_YEAST [P26343] RecName: Full=Nitrogen regulatory protein DAL80; AltName: Full=Regulatory protein UGA43;
+Length: 269
+	******************************************************************
+	HSP 1
+	Bit score: 57.7658
+	Score: 138
+	E-value: 1.76686e-07
+	Start in query: 206
+	End in query: 266
+	Start in subject: 5
+	End in subject: 68
+	Number of identities: 27
+	Number of positives: 36
+	Number of gaps: 3
+	Alignment length: 64
+	Alignment string for query (with gaps):   NSAAYSSPKLRGTLPLPPCEARE---CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): DSLKLPSPTLSAAAGVDDCDGEDHPTCQNCFTVKTPLWRRDEHGTVLCNACGLFLKLHGEPRPI
+	Middle line:                              +S    SP L     +  C+  +   C NC    TPLWRRD  G  LCNACGL+ K++G+ RP+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 47.7506
+	Score: 112
+	E-value: 0.000200417
+	Start in query: 293
+	End in query: 329
+	Start in subject: 41
+	End in subject: 77
+	Number of identities: 18
+	Number of positives: 27
+	Number of gaps: 0
+	Alignment length: 37
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): LWRRDEHGTVLCNACGLFLKLHGEPRPISLKTDTIKS
+	Middle line:                              LWRR+  G  +CNACGL+ KLH   RP++++ D I++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #58
+lcl|sp:GAF1_SCHPO
+sp:GAF1_SCHPO [Q10280] RecName: Full=Transcription factor gaf1; Short=Gaf-1;
+Length: 855
+	******************************************************************
+	HSP 1
+	Bit score: 56.225
+	Score: 134
+	E-value: 5.09807e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 635
+	End in subject: 682
+	Number of identities: 26
+	Number of positives: 30
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCQTRTTPLWRRSPDGQPLCNACGLFMKINGVVRPLSL--KTDVIKKR
+	Middle line:                              C NC    TPLWRR   G  LCNACGL+ K+NG  RPL    K  ++ KR
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 50.0618
+	Score: 118
+	E-value: 3.30543e-05
+	Start in query: 293
+	End in query: 328
+	Start in subject: 645
+	End in subject: 680
+	Number of identities: 19
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRSPDGQPLCNACGLFMKINGVVRPLSLKTDVIK
+	Middle line:                              LWRR+  G P+CNACGL+ K++ V RPL+++ D I+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #59
+lcl|sp:GAT1_CANAL
+sp:GAT1_CANAL [Q5A432] RecName: Full=Transcriptional regulatory protein GAT1;
+Length: 688
+	******************************************************************
+	HSP 1
+	Bit score: 55.4546
+	Score: 132
+	E-value: 7.73727e-07
+	Start in query: 229
+	End in query: 278
+	Start in subject: 438
+	End in subject: 485
+	Number of identities: 26
+	Number of positives: 32
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCGTKTTPLWRRNPQGQPLCNACGLFLKLHGVVRPL--SLKTDVIKKR
+	Middle line:                              C NCG   TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 54.6842
+	Score: 130
+	E-value: 1.38753e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 448
+	End in subject: 483
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPQGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #60
+lcl|sp:GZF3_YEAST
+sp:GZF3_YEAST [P42944] RecName: Full=Protein GZF3;
+Length: 551
+	******************************************************************
+	HSP 1
+	Bit score: 55.4546
+	Score: 132
+	E-value: 8.13447e-07
+	Start in query: 229
+	End in query: 266
+	Start in subject: 131
+	End in subject: 168
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CKNCLTSTTPLWRRDEHGAMLCNACGLFLKLHGKPRPI
+	Middle line:                              C NC  + TPLWRRD  G  LCNACGL+ K++G+ RP+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 46.2098
+	Score: 108
+	E-value: 0.000531987
+	Start in query: 293
+	End in query: 329
+	Start in subject: 141
+	End in subject: 177
+	Number of identities: 18
+	Number of positives: 27
+	Number of gaps: 0
+	Alignment length: 37
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQT
+	Alignment string for subject (with gaps): LWRRDEHGAMLCNACGLFLKLHGKPRPISLKTDVIKS
+	Middle line:                              LWRR+  G  +CNACGL+ KLH   RP++++ D I++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #61
+lcl|sp:AREA_PENCH
+sp:AREA_PENCH [Q01582] RecName: Full=Nitrogen regulatory protein areA; Short=Nitrogen regulator nre;
+Length: 725
+	******************************************************************
+	HSP 1
+	Bit score: 55.4546
+	Score: 132
+	E-value: 8.48101e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 535
+	End in subject: 570
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.9138
+	Score: 128
+	E-value: 2.63793e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 525
+	End in subject: 572
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSL--KTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #62
+lcl|sp:NIT2_NEUCR
+sp:NIT2_NEUCR [P19212] RecName: Full=Nitrogen catabolic enzyme regulatory protein; AltName: Full=Nitrogen regulatory protein 2; Short=NIT2;
+Length: 1036
+	******************************************************************
+	HSP 1
+	Bit score: 55.4546
+	Score: 132
+	E-value: 8.99111e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 753
+	End in subject: 788
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPDGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.5286
+	Score: 127
+	E-value: 3.44524e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 743
+	End in subject: 790
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPDGQPLCNACGLFLKLHGVVRPLSL--KTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #63
+lcl|sp:AREA_ASPNG
+sp:AREA_ASPNG [O13412] RecName: Full=Nitrogen regulatory protein areA;
+Length: 882
+	******************************************************************
+	HSP 1
+	Bit score: 55.4546
+	Score: 132
+	E-value: 9.06644e-07
+	Start in query: 293
+	End in query: 328
+	Start in subject: 686
+	End in subject: 721
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.5286
+	Score: 127
+	E-value: 3.14311e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 676
+	End in subject: 723
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLS--LKTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #64
+lcl|sp:AREA_EMENI
+sp:AREA_EMENI [P17429] RecName: Full=Nitrogen regulatory protein areA;
+Length: 876
+	******************************************************************
+	HSP 1
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.01052e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 683
+	End in subject: 718
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.1434
+	Score: 126
+	E-value: 3.80806e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 673
+	End in subject: 720
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLS--LKTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #65
+lcl|sp:AREA_GIBFU
+sp:AREA_GIBFU [P78688] RecName: Full=Nitrogen regulatory protein areA;
+Length: 971
+	******************************************************************
+	HSP 1
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.01899e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 704
+	End in subject: 739
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.1434
+	Score: 126
+	E-value: 3.77642e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 694
+	End in subject: 741
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPL--SLKTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #66
+lcl|sp:NUT1_MAGO7
+sp:NUT1_MAGO7 [Q01168] RecName: Full=Nitrogen regulatory protein NUT1;
+Length: 956
+	******************************************************************
+	HSP 1
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.0713e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 673
+	End in subject: 708
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 54.299
+	Score: 129
+	E-value: 2.12348e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 663
+	End in subject: 710
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCATQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPL--SLKTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #67
+lcl|sp:NRFA_PENUR
+sp:NRFA_PENUR [Q92269] RecName: Full=Nitrogen regulatory protein nrfA;
+Length: 865
+	******************************************************************
+	HSP 1
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.08027e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 675
+	End in subject: 710
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.5286
+	Score: 127
+	E-value: 3.117e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 665
+	End in subject: 712
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSL--KTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #68
+lcl|sp:AREA_PENRO
+sp:AREA_PENRO [O13508] RecName: Full=Nitrogen regulatory protein areA; AltName: Full=Nitrogen regulator nmc;
+Length: 860
+	******************************************************************
+	HSP 1
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.08027e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 670
+	End in subject: 705
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.5286
+	Score: 127
+	E-value: 3.71392e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 660
+	End in subject: 707
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLSL--KTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #69
+lcl|sp:AREA_ASPOR
+sp:AREA_ASPOR [O13415] RecName: Full=Nitrogen regulatory protein areA;
+Length: 866
+	******************************************************************
+	HSP 1
+	Bit score: 55.0694
+	Score: 131
+	E-value: 1.12629e-06
+	Start in query: 293
+	End in query: 328
+	Start in subject: 674
+	End in subject: 709
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRRNPEGQPLCNACGLFLKLHGVVRPLSLKTDVIK
+	Middle line:                              LWRRN  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 53.1434
+	Score: 126
+	E-value: 3.97029e-06
+	Start in query: 229
+	End in query: 278
+	Start in subject: 664
+	End in subject: 711
+	Number of identities: 25
+	Number of positives: 31
+	Number of gaps: 2
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CTNCFTQTTPLWRRNPEGQPLCNACGLFLKLHGVVRPLS--LKTDVIKKR
+	Middle line:                              C NC    TPLWRR+  G  LCNACGL+ K++G  RPL    K  ++ KR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #70
+lcl|sp:GAT1_YEAST
+sp:GAT1_YEAST [P43574] RecName: Full=Transcriptional regulatory protein GAT1;
+Length: 510
+	******************************************************************
+	HSP 1
+	Bit score: 54.6842
+	Score: 130
+	E-value: 1.57252e-06
+	Start in query: 228
+	End in query: 278
+	Start in subject: 309
+	End in subject: 357
+	Number of identities: 26
+	Number of positives: 33
+	Number of gaps: 2
+	Alignment length: 51
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): KCSNCTTSTTPLWRKDPKGLPLCNACGLFLKLHGVTRPL--SLKTDIIKKR
+	Middle line:                              +C NC  + TPLWR+D  G  LCNACGL+ K++G  RPL    K  I+ KR
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 51.2174
+	Score: 121
+	E-value: 1.47141e-05
+	Start in query: 293
+	End in query: 328
+	Start in subject: 320
+	End in subject: 355
+	Number of identities: 20
+	Number of positives: 28
+	Number of gaps: 0
+	Alignment length: 36
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRKDGIQ
+	Alignment string for subject (with gaps): LWRKDPKGLPLCNACGLFLKLHGVTRPLSLKTDIIK
+	Middle line:                              LWR++  G P+CNACGL+ KLH V RPL+++ D I+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #71
+lcl|sp:TRPS1_MOUSE
+sp:TRPS1_MOUSE [Q925H1] RecName: Full=Zinc finger transcription factor Trps1;
+Length: 1281
+	******************************************************************
+	HSP 1
+	Bit score: 53.1434
+	Score: 126
+	E-value: 4.35193e-06
+	Start in query: 229
+	End in query: 266
+	Start in subject: 896
+	End in subject: 933
+	Number of identities: 21
+	Number of positives: 26
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CANCLTTKTSLWRKNANGGYVCNACGLYQKLHSTPRPL
+	Middle line:                              C NC  T T LWR++  G Y+CNACGLY K++   RPL
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 49.2914
+	Score: 116
+	E-value: 6.44346e-05
+	Start in query: 293
+	End in query: 324
+	Start in subject: 906
+	End in subject: 937
+	Number of identities: 21
+	Number of positives: 24
+	Number of gaps: 0
+	Alignment length: 32
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): LWRKNANGGYVCNACGLYQKLHSTPRPLNIIK
+	Middle line:                              LWR+NA+G  VCNACGLY KLH   RPL + K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #72
+lcl|sp:TRPS1_HUMAN
+sp:TRPS1_HUMAN [Q9UHF7] RecName: Full=Zinc finger transcription factor Trps1; AltName: Full=Tricho-rhino-phalangeal syndrome type I protein; AltName: Full=Zinc finger protein GC79;
+Length: 1281
+	******************************************************************
+	HSP 1
+	Bit score: 53.1434
+	Score: 126
+	E-value: 4.46224e-06
+	Start in query: 229
+	End in query: 266
+	Start in subject: 896
+	End in subject: 933
+	Number of identities: 21
+	Number of positives: 26
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CANCLTTKTSLWRKNANGGYVCNACGLYQKLHSTPRPL
+	Middle line:                              C NC  T T LWR++  G Y+CNACGLY K++   RPL
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 49.2914
+	Score: 116
+	E-value: 5.49883e-05
+	Start in query: 261
+	End in query: 324
+	Start in subject: 874
+	End in subject: 937
+	Number of identities: 25
+	Number of positives: 33
+	Number of gaps: 0
+	Alignment length: 64
+	Alignment string for query (with gaps):   GQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): GENKSKDESQSLLRRRRGSGVFCANCLTTKTSLWRKNANGGYVCNACGLYQKLHSTPRPLNIIK
+	Middle line:                              G+N+     +  L   + +G            LWR+NA+G  VCNACGLY KLH   RPL + K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #73
+lcl|sp:TRPS1_XENLA
+sp:TRPS1_XENLA [Q90ZS6] RecName: Full=Zinc finger transcription factor Trps1;
+Length: 1271
+	******************************************************************
+	HSP 1
+	Bit score: 53.1434
+	Score: 126
+	E-value: 4.89117e-06
+	Start in query: 229
+	End in query: 266
+	Start in subject: 886
+	End in subject: 923
+	Number of identities: 21
+	Number of positives: 26
+	Number of gaps: 0
+	Alignment length: 38
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPL
+	Alignment string for subject (with gaps): CANCLTTKTSLWRKNANGGYVCNACGLYQKLHSTPRPL
+	Middle line:                              C NC  T T LWR++  G Y+CNACGLY K++   RPL
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 48.9062
+	Score: 115
+	E-value: 7.12202e-05
+	Start in query: 293
+	End in query: 324
+	Start in subject: 896
+	End in subject: 927
+	Number of identities: 21
+	Number of positives: 24
+	Number of gaps: 0
+	Alignment length: 32
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): LWRKNANGGYVCNACGLYQKLHSTPRPLNIIK
+	Middle line:                              LWR+NA+G  VCNACGLY KLH   RPL + K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #74
+lcl|sp:ELT7_CAEEL
+sp:ELT7_CAEEL [O61924] RecName: Full=Transcription factor elt-7 {ECO:0000305};
+Length: 198
+	******************************************************************
+	HSP 1
+	Bit score: 45.0542
+	Score: 105
+	E-value: 0.00103703
+	Start in query: 229
+	End in query: 278
+	Start in subject: 143
+	End in subject: 192
+	Number of identities: 21
+	Number of positives: 29
+	Number of gaps: 0
+	Alignment length: 50
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHYLCNACGLYHKMNGQNRPLIRPKKRLIVSKR
+	Alignment string for subject (with gaps): CSHCSTTTTTLWRKNDEGNLECNACNLYYRHNKVKRPLSLCKQKPTTRKR
+	Middle line:                              C +C  T T LWR++  G+  CNAC LY++ N   RPL   K++    KR
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 44.2838
+	Score: 103
+	E-value: 0.00193895
+	Start in query: 293
+	End in query: 324
+	Start in subject: 153
+	End in subject: 184
+	Number of identities: 17
+	Number of positives: 24
+	Number of gaps: 0
+	Alignment length: 32
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLHQVNRPLTMRK
+	Alignment string for subject (with gaps): LWRKNDEGNLECNACNLYYRHNKVKRPLSLCK
+	Middle line:                              LWR+N  G+  CNAC LYY+ ++V RPL++ K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #75
+lcl|sp:GTAK_DICDI
+sp:GTAK_DICDI [Q5KSV0] RecName: Full=GATA zinc finger domain-containing protein 11; AltName: Full=Transcription factor amvA;
+Length: 650
+	******************************************************************
+	HSP 1
+	Bit score: 43.8986
+	Score: 102
+	E-value: 0.00270715
+	Start in query: 225
+	End in query: 256
+	Start in subject: 518
+	End in subject: 550
+	Number of identities: 17
+	Number of positives: 24
+	Number of gaps: 1
+	Alignment length: 33
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHY-LCNACGLY
+	Alignment string for subject (with gaps): ELKQCTSCGTTSSPEWRKGPAGNQSLCNACGLY
+	Middle line:                              E ++C +CG T++P WR+   G+  LCNACGLY
+	******************************************************************
+----------------------------------------------------------------------
+Hit #76
+lcl|sp:GTAL_DICDI
+sp:GTAL_DICDI [Q54NM5] RecName: Full=GATA zinc finger domain-containing protein 12;
+Length: 640
+	******************************************************************
+	HSP 1
+	Bit score: 43.5134
+	Score: 101
+	E-value: 0.00339118
+	Start in query: 226
+	End in query: 265
+	Start in subject: 503
+	End in subject: 543
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 1
+	Alignment length: 41
+	Alignment string for query (with gaps):   ARECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRP
+	Alignment string for subject (with gaps): SRVCVNCKTSDTPEWRRGPQGAKTLCNACGIRYRLQQQQVP
+	Middle line:                              +R CVNC  + TP WRR   G   LCNACG+ +++  Q  P
+	******************************************************************
+----------------------------------------------------------------------
+Hit #77
+lcl|sp:GTAC_DICDI
+sp:GTAC_DICDI [Q75JZ1] RecName: Full=GATA zinc finger domain-containing protein 3;
+Length: 587
+	******************************************************************
+	HSP 1
+	Bit score: 42.3578
+	Score: 98
+	E-value: 0.00821215
+	Start in query: 216
+	End in query: 260
+	Start in subject: 487
+	End in subject: 532
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 1
+	Alignment length: 46
+	Alignment string for query (with gaps):   RGTLPLPPCEARECVNCGATATPLWRRDRTGHY-LCNACGLYHKMN
+	Alignment string for subject (with gaps): RSYVTTPKSKGTYCIFCGTMETPEWRKGPGGHKTLCNACGLHYAKN
+	Middle line:                              R  +  P  +   C+ CG   TP WR+   GH  LCNACGL++  N
+	******************************************************************
+----------------------------------------------------------------------
+Hit #78
+lcl|sp:ZGLP1_HUMAN
+sp:ZGLP1_HUMAN [P0C6A0] RecName: Full=GATA-type zinc finger protein 1; AltName: Full=GATA-like protein 1; Short=GLP-1;
+Length: 271
+	******************************************************************
+	HSP 1
+	Bit score: 41.9726
+	Score: 97
+	E-value: 0.00907696
+	Start in query: 225
+	End in query: 261
+	Start in subject: 202
+	End in subject: 238
+	Number of identities: 18
+	Number of positives: 21
+	Number of gaps: 0
+	Alignment length: 37
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTGHYLCNACGLYHKMNG
+	Alignment string for subject (with gaps): EPRRCASCRTQRTPLWRDAEDGTPLCNACGIRYKKYG
+	Middle line:                              E R C +C    TPLWR    G  LCNACG+ +K  G
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 33.4982
+	Score: 75
+	E-value: 3.59827
+	Start in query: 293
+	End in query: 314
+	Start in subject: 216
+	End in subject: 237
+	Number of identities: 12
+	Number of positives: 15
+	Number of gaps: 0
+	Alignment length: 22
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLH
+	Alignment string for subject (with gaps): LWRDAEDGTPLCNACGIRYKKY
+	Middle line:                              LWR    G P+CNACG+ YK +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #79
+lcl|sp:GTAA_DICDI
+sp:GTAA_DICDI [Q550D5] RecName: Full=Transcription factor stalky; AltName: Full=GATA zinc finger domain-containing protein 1;
+Length: 872
+	******************************************************************
+	HSP 1
+	Bit score: 41.5874
+	Score: 96
+	E-value: 0.0120544
+	Start in query: 221
+	End in query: 263
+	Start in subject: 286
+	End in subject: 329
+	Number of identities: 19
+	Number of positives: 27
+	Number of gaps: 1
+	Alignment length: 44
+	Alignment string for query (with gaps):   LPPCEARECVNCGATATPLWRRDRTGH-YLCNACGLYHKMNGQN
+	Alignment string for subject (with gaps): LPMSAPRSCEFCGSSQTPTWRRGPSGKGSLCNACGIKWRLKGKD
+	Middle line:                              LP    R C  CG++ TP WRR  +G   LCNACG+  ++ G++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #80
+lcl|sp:BRG1_CANAL
+sp:BRG1_CANAL [Q59LY1] RecName: Full=Biofilm regulator 1;
+Length: 422
+	******************************************************************
+	HSP 1
+	Bit score: 41.5874
+	Score: 96
+	E-value: 0.0142435
+	Start in query: 228
+	End in query: 257
+	Start in subject: 281
+	End in subject: 311
+	Number of identities: 18
+	Number of positives: 19
+	Number of gaps: 1
+	Alignment length: 31
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTG-HYLCNACGLYH
+	Alignment string for subject (with gaps): RCHRCGTTETPEWRRGPKGVRTLCNACGLFH
+	Middle line:                               C  CG T TP WRR   G   LCNACGL+H
+	******************************************************************
+----------------------------------------------------------------------
+Hit #81
+lcl|sp:ZGLP1_MOUSE
+sp:ZGLP1_MOUSE [Q1WG82] RecName: Full=GATA-type zinc finger protein 1; AltName: Full=GATA-like protein 1; Short=GLP-1;
+Length: 266
+	******************************************************************
+	HSP 1
+	Bit score: 41.2022
+	Score: 95
+	E-value: 0.0158754
+	Start in query: 227
+	End in query: 261
+	Start in subject: 195
+	End in subject: 229
+	Number of identities: 17
+	Number of positives: 20
+	Number of gaps: 0
+	Alignment length: 35
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTGHYLCNACGLYHKMNG
+	Alignment string for subject (with gaps): RRCASCRTQRTPLWRDAEDGTPLCNACGIRYKKYG
+	Middle line:                              R C +C    TPLWR    G  LCNACG+ +K  G
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 33.8834
+	Score: 76
+	E-value: 2.99484
+	Start in query: 293
+	End in query: 314
+	Start in subject: 207
+	End in subject: 228
+	Number of identities: 12
+	Number of positives: 15
+	Number of gaps: 0
+	Alignment length: 22
+	Alignment string for query (with gaps):   LWRRNASGDPVCNACGLYYKLH
+	Alignment string for subject (with gaps): LWRDAEDGTPLCNACGIRYKKY
+	Middle line:                              LWR    G P+CNACG+ YK +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #82
+lcl|sp:GAT19_ARATH
+sp:GAT19_ARATH [Q6QPM2] RecName: Full=GATA transcription factor 19 {ECO:0000303|PubMed:15084732}; AltName: Full=Protein HAN-LIKE 2 {ECO:0000303|PubMed:17208962};
+Length: 211
+	******************************************************************
+	HSP 1
+	Bit score: 39.6614
+	Score: 91
+	E-value: 0.0485616
+	Start in query: 226
+	End in query: 258
+	Start in subject: 74
+	End in subject: 107
+	Number of identities: 19
+	Number of positives: 21
+	Number of gaps: 1
+	Alignment length: 34
+	Alignment string for query (with gaps):   ARECVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): ARRCANCDTTSTPLWRNGPRGPKSLCNACGIRFK
+	Middle line:                              AR C NC  T+TPLWR    G   LCNACG+  K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #83
+lcl|sp:GAT15_ORYSJ
+sp:GAT15_ORYSJ [Q6L5E5] RecName: Full=GATA transcription factor 15 {ECO:0000305}; Short=OsGATA15 {ECO:0000303|PubMed:15084732}; AltName: Full=Protein NECK LEAF 1 {ECO:0000303|PubMed:19337211};
+Length: 279
+	******************************************************************
+	HSP 1
+	Bit score: 39.6614
+	Score: 91
+	E-value: 0.0502097
+	Start in query: 227
+	End in query: 258
+	Start in subject: 152
+	End in subject: 184
+	Number of identities: 18
+	Number of positives: 21
+	Number of gaps: 1
+	Alignment length: 33
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): RRCANCGTASTPLWRNGPRGPKSLCNACGIRYK
+	Middle line:                              R C NCG  +TPLWR    G   LCNACG+ +K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #84
+lcl|sp:GAT15_ORYSI
+sp:GAT15_ORYSI [B8AX51] RecName: Full=GATA transcription factor 15 {ECO:0000305}; AltName: Full=Protein NECK LEAF 1 {ECO:0000305};
+Length: 277
+	******************************************************************
+	HSP 1
+	Bit score: 39.6614
+	Score: 91
+	E-value: 0.0532296
+	Start in query: 227
+	End in query: 258
+	Start in subject: 152
+	End in subject: 184
+	Number of identities: 18
+	Number of positives: 21
+	Number of gaps: 1
+	Alignment length: 33
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): RRCANCGTASTPLWRNGPRGPKSLCNACGIRYK
+	Middle line:                              R C NCG  +TPLWR    G   LCNACG+ +K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #85
+lcl|sp:GAT18_ARATH
+sp:GAT18_ARATH [Q8LC79] RecName: Full=GATA transcription factor 18 {ECO:0000303|PubMed:15084732}; AltName: Full=Protein HANABA TARANU {ECO:0000303|PubMed:15367721};
+Length: 295
+	******************************************************************
+	HSP 1
+	Bit score: 38.891
+	Score: 89
+	E-value: 0.0749415
+	Start in query: 226
+	End in query: 258
+	Start in subject: 151
+	End in subject: 184
+	Number of identities: 19
+	Number of positives: 21
+	Number of gaps: 1
+	Alignment length: 34
+	Alignment string for query (with gaps):   ARECVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): ARRCANCDTTSTPLWRNGPRGPKSLCNACGIRFK
+	Middle line:                              AR C NC  T+TPLWR    G   LCNACG+  K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #86
+lcl|sp:GTAN_DICDI
+sp:GTAN_DICDI [Q54KX0] RecName: Full=GATA zinc finger domain-containing protein 14;
+Length: 953
+	******************************************************************
+	HSP 1
+	Bit score: 38.891
+	Score: 89
+	E-value: 0.0762026
+	Start in query: 229
+	End in query: 257
+	Start in subject: 893
+	End in subject: 922
+	Number of identities: 16
+	Number of positives: 20
+	Number of gaps: 1
+	Alignment length: 30
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRT-GHYLCNACGLYH
+	Alignment string for subject (with gaps): CTSCGTTQTPEWRKGPAGGKSLCNACGLHY
+	Middle line:                              C +CG T TP WR+    G  LCNACGL++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #87
+lcl|sp:GAT15_ARATH
+sp:GAT15_ARATH [Q8LG10] RecName: Full=GATA transcription factor 15;
+Length: 149
+	******************************************************************
+	HSP 1
+	Bit score: 38.891
+	Score: 89
+	E-value: 0.0915567
+	Start in query: 225
+	End in query: 279
+	Start in subject: 39
+	End in subject: 84
+	Number of identities: 21
+	Number of positives: 29
+	Number of gaps: 11
+	Alignment length: 56
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRPKKRLIVSKRA
+	Alignment string for subject (with gaps): EKKSCAICGTSKTPLWRGGPAGPKSLCNACGIRN----------RKKRRTLISNRS
+	Middle line:                              E + C  CG + TPLWR    G   LCNACG+ +          R K+R ++S R+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #88
+lcl|sp:GAT2_YEAST
+sp:GAT2_YEAST [P40209] RecName: Full=Protein GAT2;
+Length: 560
+	******************************************************************
+	HSP 1
+	Bit score: 38.891
+	Score: 89
+	E-value: 0.0930974
+	Start in query: 229
+	End in query: 258
+	Start in subject: 472
+	End in subject: 502
+	Number of identities: 16
+	Number of positives: 21
+	Number of gaps: 1
+	Alignment length: 31
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): CFHCGETETPEWRKGPYGTRTLCNACGLFYR
+	Middle line:                              C +CG T TP WR+   G   LCNACGL+++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #89
+lcl|sp:GAT23_ARATH
+sp:GAT23_ARATH [Q8LC59] RecName: Full=GATA transcription factor 23;
+Length: 120
+	******************************************************************
+	HSP 1
+	Bit score: 38.5058
+	Score: 88
+	E-value: 0.0986968
+	Start in query: 227
+	End in query: 277
+	Start in subject: 26
+	End in subject: 81
+	Number of identities: 23
+	Number of positives: 28
+	Number of gaps: 5
+	Alignment length: 56
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPL----IRPKKRLIVSK
+	Alignment string for subject (with gaps): RCCSECKTTKTPMWRGGPTGPKSLCNACGIRHRKQRRSELLGIHIIRSHKSLASKK
+	Middle line:                              R C  C  T TP+WR   TG   LCNACG+ H+   ++  L    IR  K L   K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #90
+lcl|sp:GAT16_ARATH
+sp:GAT16_ARATH [Q9FJ10] RecName: Full=GATA transcription factor 16;
+Length: 139
+	******************************************************************
+	HSP 1
+	Bit score: 38.5058
+	Score: 88
+	E-value: 0.100358
+	Start in query: 225
+	End in query: 258
+	Start in subject: 34
+	End in subject: 68
+	Number of identities: 15
+	Number of positives: 22
+	Number of gaps: 1
+	Alignment length: 35
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): KKKTCADCGTSKTPLWRGGPVGPKSLCNACGIRNR
+	Middle line:                              + + C +CG + TPLWR    G   LCNACG+ ++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #91
+lcl|sp:GTAJ_DICDI
+sp:GTAJ_DICDI [Q54TE3] RecName: Full=GATA zinc finger domain-containing protein 10;
+Length: 714
+	******************************************************************
+	HSP 1
+	Bit score: 38.5058
+	Score: 88
+	E-value: 0.103764
+	Start in query: 228
+	End in query: 257
+	Start in subject: 630
+	End in subject: 660
+	Number of identities: 17
+	Number of positives: 20
+	Number of gaps: 1
+	Alignment length: 31
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTG-HYLCNACGLYH
+	Alignment string for subject (with gaps): KCHYCEVTETPEWRRGPDGDHTLCNACGLHY
+	Middle line:                              +C  C  T TP WRR   G H LCNACGL++
+	******************************************************************
+
+	******************************************************************
+	HSP 2
+	Bit score: 35.039
+	Score: 79
+	E-value: 1.33315
+	Start in query: 261
+	End in query: 311
+	Start in subject: 610
+	End in subject: 660
+	Number of identities: 19
+	Number of positives: 26
+	Number of gaps: 2
+	Alignment length: 52
+	Alignment string for query (with gaps):   GQNRPLIRPKKRLIVSKRAGXXXXXXXXXXXXLWRRNASGD-PVCNACGLYY
+	Alignment string for subject (with gaps): GQDKPQ-RRRRRTMYSSRRNLKCHYCEVTETPEWRRGPDGDHTLCNACGLHY
+	Middle line:                              GQ++P  R ++R + S R               WRR   GD  +CNACGL+Y
+	******************************************************************
+----------------------------------------------------------------------
+Hit #92
+lcl|sp:WC1_NEUCR
+sp:WC1_NEUCR [Q01371] RecName: Full=White collar 1 protein; Short=WC1;
+Length: 1167
+	******************************************************************
+	HSP 1
+	Bit score: 38.5058
+	Score: 88
+	E-value: 0.111856
+	Start in query: 227
+	End in query: 265
+	Start in subject: 932
+	End in subject: 972
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 2
+	Alignment length: 41
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTGHY-LCNACGL-YHKMNGQNRP
+	Alignment string for subject (with gaps): RDCANCHTRNTPEWRRGPSGNRDLCNSCGLRWAKQTGRVSP
+	Middle line:                              R+C NC    TP WRR  +G+  LCN+CGL + K  G+  P
+	******************************************************************
+----------------------------------------------------------------------
+Hit #93
+lcl|sp:GATA1_ARATH
+sp:GATA1_ARATH [Q8LAU9] RecName: Full=GATA transcription factor 1; Short=AtGATA-1;
+Length: 274
+	******************************************************************
+	HSP 1
+	Bit score: 38.1206
+	Score: 87
+	E-value: 0.136655
+	Start in query: 227
+	End in query: 269
+	Start in subject: 194
+	End in subject: 236
+	Number of identities: 21
+	Number of positives: 27
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RKCQHCGAEKTPQWRAGPAGPKTLCNACGVRYK-SGRLVPEYRP
+	Middle line:                              R+C +CGA  TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #94
+lcl|sp:GTAI_DICDI
+sp:GTAI_DICDI [Q54TM6] RecName: Full=GATA zinc finger domain-containing protein 9;
+Length: 536
+	******************************************************************
+	HSP 1
+	Bit score: 38.1206
+	Score: 87
+	E-value: 0.138954
+	Start in query: 229
+	End in query: 257
+	Start in subject: 479
+	End in subject: 508
+	Number of identities: 17
+	Number of positives: 20
+	Number of gaps: 1
+	Alignment length: 30
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHY-LCNACGLYH
+	Alignment string for subject (with gaps): CRHCGTTDTPEWRRGPDGRKSLCNACGLHY
+	Middle line:                              C +CG T TP WRR   G   LCNACGL++
+	******************************************************************
+----------------------------------------------------------------------
+Hit #95
+lcl|sp:GTAT_DICDI
+sp:GTAT_DICDI [Q54V37] RecName: Full=GATA zinc finger domain-containing protein 20;
+Length: 312
+	******************************************************************
+	HSP 1
+	Bit score: 38.1206
+	Score: 87
+	E-value: 0.153588
+	Start in query: 229
+	End in query: 266
+	Start in subject: 260
+	End in subject: 301
+	Number of identities: 20
+	Number of positives: 23
+	Number of gaps: 4
+	Alignment length: 42
+	Alignment string for query (with gaps):   CVNCGATATPLWRR---DRTGHYLCNACGL-YHKMNGQNRPL
+	Alignment string for subject (with gaps): CYVCGVTETPYWRRGTDEGVMVDLCNACGLRYMKLEKKERLL
+	Middle line:                              C  CG T TP WRR   +     LCNACGL Y K+  + R L
+	******************************************************************
+----------------------------------------------------------------------
+Hit #96
+lcl|sp:GAT22_ARATH
+sp:GAT22_ARATH [Q9SZI6] RecName: Full=Putative GATA transcription factor 22 {ECO:0000303|PubMed:17208962}; AltName: Full=Protein CYTOKININ-RESPONSIVE GATA FACTOR 1 {ECO:0000303|PubMed:17587690}; AltName: Full=Protein GNC-LIKE {ECO:0000303|PubMed:18417639}; Short=AtGNL {ECO:0000303|PubMed:25077795};
+Length: 352
+	******************************************************************
+	HSP 1
+	Bit score: 38.1206
+	Score: 87
+	E-value: 0.162825
+	Start in query: 224
+	End in query: 255
+	Start in subject: 196
+	End in subject: 228
+	Number of identities: 17
+	Number of positives: 19
+	Number of gaps: 1
+	Alignment length: 33
+	Alignment string for query (with gaps):   CEARECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): CVIRICSDCNTTKTPLWRSGPRGPKSLCNACGI
+	Middle line:                              C  R C +C  T TPLWR    G   LCNACG+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #97
+lcl|sp:GAT12_ARATH
+sp:GAT12_ARATH [P69781] RecName: Full=GATA transcription factor 12 {ECO:0000303|PubMed:15084732};
+Length: 331
+	******************************************************************
+	HSP 1
+	Bit score: 37.7354
+	Score: 86
+	E-value: 0.192395
+	Start in query: 224
+	End in query: 269
+	Start in subject: 216
+	End in subject: 261
+	Number of identities: 20
+	Number of positives: 26
+	Number of gaps: 2
+	Alignment length: 47
+	Alignment string for query (with gaps):   CEARECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): AEERRCLHCATDKTPQWRTGPMGPKTLCNACGVRYK-SGRLVPEYRP
+	Middle line:                               E R C++C    TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #98
+lcl|sp:GTAP_DICDI
+sp:GTAP_DICDI [B0G188] RecName: Full=GATA zinc finger domain-containing protein 16;
+Length: 695
+	******************************************************************
+	HSP 1
+	Bit score: 37.7354
+	Score: 86
+	E-value: 0.203967
+	Start in query: 229
+	End in query: 255
+	Start in subject: 479
+	End in subject: 506
+	Number of identities: 17
+	Number of positives: 17
+	Number of gaps: 1
+	Alignment length: 28
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): CHTCGVTNTPEWRRGPNGAKTLCNACGL
+	Middle line:                              C  CG T TP WRR   G   LCNACGL
+	******************************************************************
+----------------------------------------------------------------------
+Hit #99
+lcl|sp:GTAG_DICDI
+sp:GTAG_DICDI [Q55C49] RecName: Full=GATA zinc finger domain-containing protein 7;
+Length: 1006
+	******************************************************************
+	HSP 1
+	Bit score: 36.965
+	Score: 84
+	E-value: 0.280065
+	Start in query: 229
+	End in query: 255
+	Start in subject: 842
+	End in subject: 869
+	Number of identities: 17
+	Number of positives: 18
+	Number of gaps: 1
+	Alignment length: 28
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): CHNCGTKNTPEWRRGPSGPATLCNACGL
+	Middle line:                              C NCG   TP WRR  +G   LCNACGL
+	******************************************************************
+----------------------------------------------------------------------
+Hit #100
+lcl|sp:GTAH_DICDI
+sp:GTAH_DICDI [Q75JZ0] RecName: Full=GATA zinc finger domain-containing protein 8;
+Length: 519
+	******************************************************************
+	HSP 1
+	Bit score: 36.965
+	Score: 84
+	E-value: 0.282411
+	Start in query: 229
+	End in query: 260
+	Start in subject: 462
+	End in subject: 494
+	Number of identities: 18
+	Number of positives: 21
+	Number of gaps: 3
+	Alignment length: 34
+	Alignment string for query (with gaps):   CVNCGATATPLWRR--DRTGHYLCNACGLYHKMN
+	Alignment string for subject (with gaps): CRNCKTTETPEWRKGPDGTKS-LCNACGLHYAKN
+	Middle line:                              C NC  T TP WR+  D T   LCNACGL++  N
+	******************************************************************
+----------------------------------------------------------------------
+Hit #101
+lcl|sp:GATA4_ARATH
+sp:GATA4_ARATH [O49743] RecName: Full=GATA transcription factor 4; Short=AtGATA-4;
+Length: 240
+	******************************************************************
+	HSP 1
+	Bit score: 36.965
+	Score: 84
+	E-value: 0.314767
+	Start in query: 226
+	End in query: 269
+	Start in subject: 157
+	End in subject: 200
+	Number of identities: 20
+	Number of positives: 26
+	Number of gaps: 2
+	Alignment length: 45
+	Alignment string for query (with gaps):   ARECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): ARRCTHCASEKTPQWRTGPLGPKTLCNACGVRYK-SGRLVPEYRP
+	Middle line:                              AR C +C +  TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #102
+lcl|sp:GAT20_ARATH
+sp:GAT20_ARATH [Q9ZPX0] RecName: Full=GATA transcription factor 20 {ECO:0000312|EMBL:AAD15499.1}; AltName: Full=Protein HAN-LIKE 1 {ECO:0000303|PubMed:15367721};
+Length: 208
+	******************************************************************
+	HSP 1
+	Bit score: 36.965
+	Score: 84
+	E-value: 0.330926
+	Start in query: 227
+	End in query: 258
+	Start in subject: 92
+	End in subject: 124
+	Number of identities: 17
+	Number of positives: 20
+	Number of gaps: 1
+	Alignment length: 33
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHK
+	Alignment string for subject (with gaps): RRCASCDTTSTPLWRNGPKGPKSLCNACGIRFK
+	Middle line:                              R C +C  T+TPLWR    G   LCNACG+  K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #103
+lcl|sp:GATA5_ARATH
+sp:GATA5_ARATH [Q9FH57] RecName: Full=GATA transcription factor 5;
+Length: 339
+	******************************************************************
+	HSP 1
+	Bit score: 36.965
+	Score: 84
+	E-value: 0.35083
+	Start in query: 227
+	End in query: 269
+	Start in subject: 249
+	End in subject: 291
+	Number of identities: 20
+	Number of positives: 26
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RKCSHCGVQKTPQWRAGPMGAKTLCNACGVRYK-SGRLLPEYRP
+	Middle line:                              R+C +CG   TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #104
+lcl|sp:GAT11_ARATH
+sp:GAT11_ARATH [Q6DBP8] RecName: Full=GATA transcription factor 11;
+Length: 303
+	******************************************************************
+	HSP 1
+	Bit score: 36.5798
+	Score: 83
+	E-value: 0.368841
+	Start in query: 226
+	End in query: 269
+	Start in subject: 219
+	End in subject: 262
+	Number of identities: 19
+	Number of positives: 26
+	Number of gaps: 2
+	Alignment length: 45
+	Alignment string for query (with gaps):   ARECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): VRKCTHCETTKTPQWREGPSGPKTLCNACGVRFR-SGRLVPEYRP
+	Middle line:                               R+C +C  T TP WR   +G   LCNACG+  + +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #105
+lcl|sp:GAT17_ARATH
+sp:GAT17_ARATH [Q9LIB5] RecName: Full=GATA transcription factor 17;
+Length: 190
+	******************************************************************
+	HSP 1
+	Bit score: 36.5798
+	Score: 83
+	E-value: 0.404295
+	Start in query: 227
+	End in query: 262
+	Start in subject: 42
+	End in subject: 78
+	Number of identities: 18
+	Number of positives: 21
+	Number of gaps: 1
+	Alignment length: 37
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQ
+	Alignment string for subject (with gaps): RTCVDCGTIRTPLWRGGPAGPKSLCNACGIKSRKKRQ
+	Middle line:                              R CV+CG   TPLWR    G   LCNACG+  +   Q
+	******************************************************************
+----------------------------------------------------------------------
+Hit #106
+lcl|sp:GTAQ_DICDI
+sp:GTAQ_DICDI [Q54L80] RecName: Full=GATA zinc finger domain-containing protein 17;
+Length: 356
+	******************************************************************
+	HSP 1
+	Bit score: 36.5798
+	Score: 83
+	E-value: 0.418016
+	Start in query: 229
+	End in query: 274
+	Start in subject: 304
+	End in subject: 351
+	Number of identities: 19
+	Number of positives: 24
+	Number of gaps: 4
+	Alignment length: 49
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHY---LCNACGLYHKMNGQNRPLIRPKKRLI
+	Alignment string for subject (with gaps): CYVCKVTETPYWRRGTDNGVVVDLCNECGLYY-MNKEKKERLSRQKHSI
+	Middle line:                              C  C  T TP WRR         LCN CGLY+ MN + +  +  +K  I
+	******************************************************************
+----------------------------------------------------------------------
+Hit #107
+lcl|sp:GATA8_ARATH
+sp:GATA8_ARATH [Q9SV30] RecName: Full=GATA transcription factor 8;
+Length: 322
+	******************************************************************
+	HSP 1
+	Bit score: 36.5798
+	Score: 83
+	E-value: 0.428612
+	Start in query: 227
+	End in query: 269
+	Start in subject: 229
+	End in subject: 271
+	Number of identities: 20
+	Number of positives: 27
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RKCMHCEVTKTPQWRLGPMGPKTLCNACGVRYK-SGRLFPEYRP
+	Middle line:                              R+C++C  T TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #108
+lcl|sp:GAT14_ARATH
+sp:GAT14_ARATH [Q9M1U2] RecName: Full=GATA transcription factor 14;
+Length: 204
+	******************************************************************
+	HSP 1
+	Bit score: 36.5798
+	Score: 83
+	E-value: 0.432203
+	Start in query: 227
+	End in query: 269
+	Start in subject: 115
+	End in subject: 157
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRD-RTGHYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): KSCSHCGTRKTPLWREGPRGAGTLCNACGMRYRT-GRLLPEYRP
+	Middle line:                              + C +CG   TPLWR   R    LCNACG+ ++  G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #109
+lcl|sp:GTAU_DICDI
+sp:GTAU_DICDI [Q54US7] RecName: Full=GATA zinc finger domain-containing protein 21;
+Length: 326
+	******************************************************************
+	HSP 1
+	Bit score: 36.1946
+	Score: 82
+	E-value: 0.555133
+	Start in query: 207
+	End in query: 264
+	Start in subject: 219
+	End in subject: 276
+	Number of identities: 27
+	Number of positives: 30
+	Number of gaps: 6
+	Alignment length: 61
+	Alignment string for query (with gaps):   SAAYSSPKLRGTLPLPPCEARECVNCGATATPLWRR-DRTGHYL--CNACGLYHKMNGQNR
+	Alignment string for subject (with gaps): DSACESKKKRGR-PRKPTPER-CSNCKITHSSYWRRITVNGQKLDFCNACGL-HQMKRNNR
+	Middle line:                               +A  S K RG  P  P   R C NC  T +  WRR    G  L  CNACGL H+M   NR
+	******************************************************************
+----------------------------------------------------------------------
+Hit #110
+lcl|sp:GTAO_DICDI
+sp:GTAO_DICDI [Q54HA4] RecName: Full=GATA zinc finger domain-containing protein 15; Flags: Fragment;
+Length: 511
+	******************************************************************
+	HSP 1
+	Bit score: 36.1946
+	Score: 82
+	E-value: 0.578783
+	Start in query: 229
+	End in query: 257
+	Start in subject: 453
+	End in subject: 482
+	Number of identities: 16
+	Number of positives: 19
+	Number of gaps: 1
+	Alignment length: 30
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTG-HYLCNACGLYH
+	Alignment string for subject (with gaps): CQACGTRASPEWRKGPDGFKSLCNACGLYY
+	Middle line:                              C  CG  A+P WR+   G   LCNACGLY+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #111
+lcl|sp:GTAF_DICDI
+sp:GTAF_DICDI [Q55EQ0] RecName: Full=GATA zinc finger domain-containing protein 6;
+Length: 623
+	******************************************************************
+	HSP 1
+	Bit score: 36.1946
+	Score: 82
+	E-value: 0.583632
+	Start in query: 214
+	End in query: 255
+	Start in subject: 305
+	End in subject: 347
+	Number of identities: 19
+	Number of positives: 23
+	Number of gaps: 1
+	Alignment length: 43
+	Alignment string for query (with gaps):   KLRGTLPLPPCEARECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): KRRPRAPAPFLDSLYCHSCGETQTSQWRRGPDGCKSLCNACGI
+	Middle line:                              K R   P P  ++  C +CG T T  WRR   G   LCNACG+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #112
+lcl|sp:GAT20_ORYSJ
+sp:GAT20_ORYSJ [Q5Z4U5] RecName: Full=GATA transcription factor 20 {ECO:0000303|PubMed:15084732}; Short=OsGATA20 {ECO:0000303|PubMed:15084732}; AltName: Full=Protein TIFY 2b {ECO:0000305}; Short=OsTIFY2b {ECO:0000303|PubMed:19618278};
+Length: 340
+	******************************************************************
+	HSP 1
+	Bit score: 36.1946
+	Score: 82
+	E-value: 0.598425
+	Start in query: 217
+	End in query: 268
+	Start in subject: 245
+	End in subject: 299
+	Number of identities: 24
+	Number of positives: 29
+	Number of gaps: 3
+	Alignment length: 55
+	Alignment string for query (with gaps):   GTLPLPPCEARECVNCG--ATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIR
+	Alignment string for subject (with gaps): GSVEGRPPSAAECHHCGINAKATPMMRRGPDGPRTLCNACGLMWANKGMLRDLSK
+	Middle line:                              G++   P  A EC +CG  A ATP+ RR   G   LCNACGL     G  R L +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #113
+lcl|sp:CGA1_ORYSJ
+sp:CGA1_ORYSJ [Q6YW48] RecName: Full=Protein CYTOKININ-RESPONSIVE GATA TRANSCRIPTION FACTOR 1 {ECO:0000303|PubMed:23548780}; Short=OsCGA1 {ECO:0000303|PubMed:23548780};
+Length: 353
+	******************************************************************
+	HSP 1
+	Bit score: 35.8094
+	Score: 81
+	E-value: 0.725027
+	Start in query: 227
+	End in query: 255
+	Start in subject: 176
+	End in subject: 205
+	Number of identities: 16
+	Number of positives: 18
+	Number of gaps: 1
+	Alignment length: 30
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): RVCSDCNTTKTPLWRSGPCGPKSLCNACGI
+	Middle line:                              R C +C  T TPLWR    G   LCNACG+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #114
+lcl|sp:GTAR_DICDI
+sp:GTAR_DICDI [Q54WY0] RecName: Full=GATA zinc finger domain-containing protein 18;
+Length: 237
+	******************************************************************
+	HSP 1
+	Bit score: 35.8094
+	Score: 81
+	E-value: 0.731101
+	Start in query: 229
+	End in query: 255
+	Start in subject: 185
+	End in subject: 214
+	Number of identities: 15
+	Number of positives: 17
+	Number of gaps: 3
+	Alignment length: 30
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGH---YLCNACGL
+	Alignment string for subject (with gaps): CSICKTQETPYWRKGKDGDKTVYLCNACGL
+	Middle line:                              C  C    TP WR+ + G    YLCNACGL
+	******************************************************************
+----------------------------------------------------------------------
+Hit #115
+lcl|sp:GATA6_ARATH
+sp:GATA6_ARATH [Q9SD38] RecName: Full=GATA transcription factor 6;
+Length: 312
+	******************************************************************
+	HSP 1
+	Bit score: 35.039
+	Score: 79
+	E-value: 1.12825
+	Start in query: 227
+	End in query: 269
+	Start in subject: 221
+	End in subject: 263
+	Number of identities: 20
+	Number of positives: 26
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RQCGHCGVQKTPQWRAGPLGAKTLCNACGVRYK-SGRLLPEYRP
+	Middle line:                              R+C +CG   TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #116
+lcl|sp:CGPB_FUSSO
+sp:CGPB_FUSSO [Q00858] RecName: Full=Cutinase gene palindrome-binding protein; Short=PBP;
+Length: 457
+	******************************************************************
+	HSP 1
+	Bit score: 35.039
+	Score: 79
+	E-value: 1.14724
+	Start in query: 221
+	End in query: 255
+	Start in subject: 394
+	End in subject: 429
+	Number of identities: 16
+	Number of positives: 20
+	Number of gaps: 1
+	Alignment length: 36
+	Alignment string for query (with gaps):   LPPCEARECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): LKTSEEYVCTDCGTLDSPEWRKGPSGPKTLCNACGL
+	Middle line:                              L   E   C +CG   +P WR+  +G   LCNACGL
+	******************************************************************
+----------------------------------------------------------------------
+Hit #117
+lcl|sp:GAT21_ARATH
+sp:GAT21_ARATH [Q5HZ36] RecName: Full=GATA transcription factor 21 {ECO:0000303|PubMed:15084732}; AltName: Full=Protein GATA, NITRATE-INDUCIBLE, CARBON-METABOLISM INVOLVED {ECO:0000303|PubMed:20844019}; Short=AtGNC {ECO:0000303|PubMed:25077795};
+Length: 398
+	******************************************************************
+	HSP 1
+	Bit score: 35.039
+	Score: 79
+	E-value: 1.15685
+	Start in query: 227
+	End in query: 255
+	Start in subject: 230
+	End in subject: 259
+	Number of identities: 16
+	Number of positives: 18
+	Number of gaps: 1
+	Alignment length: 30
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): RVCSDCNTTKTPLWRSGPRGPKSLCNACGI
+	Middle line:                              R C +C  T TPLWR    G   LCNACG+
+	******************************************************************
+----------------------------------------------------------------------
+Hit #118
+lcl|sp:GATA9_ARATH
+sp:GATA9_ARATH [O82632] RecName: Full=GATA transcription factor 9;
+Length: 308
+	******************************************************************
+	HSP 1
+	Bit score: 34.6538
+	Score: 78
+	E-value: 1.4613
+	Start in query: 227
+	End in query: 269
+	Start in subject: 197
+	End in subject: 239
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RRCLHCATEKTPQWRTGPMGPKTLCNACGVRYK-SGRLVPEYRP
+	Middle line:                              R C++C    TP WR    G   LCNACG+ +K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #119
+lcl|sp:GAT10_ARATH
+sp:GAT10_ARATH [Q8VZP4] RecName: Full=GATA transcription factor 10;
+Length: 308
+	******************************************************************
+	HSP 1
+	Bit score: 34.6538
+	Score: 78
+	E-value: 1.49834
+	Start in query: 226
+	End in query: 269
+	Start in subject: 217
+	End in subject: 260
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 2
+	Alignment length: 45
+	Alignment string for query (with gaps):   ARECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): VRICTHCETITTPQWRQGPSGPKTLCNACGVRFK-SGRLVPEYRP
+	Middle line:                               R C +C    TP WR+  +G   LCNACG+  K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #120
+lcl|sp:WC2_NEUCR
+sp:WC2_NEUCR [P78714] RecName: Full=White collar 2 protein; Short=WC2;
+Length: 530
+	******************************************************************
+	HSP 1
+	Bit score: 34.6538
+	Score: 78
+	E-value: 1.57526
+	Start in query: 224
+	End in query: 255
+	Start in subject: 463
+	End in subject: 495
+	Number of identities: 15
+	Number of positives: 19
+	Number of gaps: 1
+	Alignment length: 33
+	Alignment string for query (with gaps):   CEARECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): AEEYVCTDCGTLDSPEWRKGPSGPKTLCNACGL
+	Middle line:                               E   C +CG   +P WR+  +G   LCNACGL
+	******************************************************************
+----------------------------------------------------------------------
+Hit #121
+lcl|sp:GATA2_ARATH
+sp:GATA2_ARATH [O49741] RecName: Full=GATA transcription factor 2; Short=AtGATA-2;
+Length: 264
+	******************************************************************
+	HSP 1
+	Bit score: 34.6538
+	Score: 78
+	E-value: 1.74115
+	Start in query: 227
+	End in query: 269
+	Start in subject: 179
+	End in subject: 221
+	Number of identities: 19
+	Number of positives: 24
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RRCTHCASEKTPQWRTGPLGPKTLCNACGVRFK-SGRLVPEYRP
+	Middle line:                              R C +C +  TP WR    G   LCNACG+  K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #122
+lcl|sp:GAT17_ORYSJ
+sp:GAT17_ORYSJ [Q6Z433] RecName: Full=GATA transcription factor 17 {ECO:0000303|PubMed:15084732}; Short=OsGATA17 {ECO:0000303|PubMed:15084732}; AltName: Full=Protein TIFY 2a {ECO:0000305}; Short=OsTIFY2a {ECO:0000303|PubMed:19618278};
+Length: 328
+	******************************************************************
+	HSP 1
+	Bit score: 34.2686
+	Score: 77
+	E-value: 1.97329
+	Start in query: 217
+	End in query: 268
+	Start in subject: 224
+	End in subject: 278
+	Number of identities: 22
+	Number of positives: 28
+	Number of gaps: 3
+	Alignment length: 55
+	Alignment string for query (with gaps):   GTLPLPPCEARECVNCG--ATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIR
+	Alignment string for subject (with gaps): GAVEGRPPSAAECHHCGISAASTPMMRRGPDGPRTLCNACGLMWANKGTMREVTK
+	Middle line:                              G +   P  A EC +CG  A +TP+ RR   G   LCNACGL     G  R + +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #123
+lcl|sp:GTAB_DICDI
+sp:GTAB_DICDI [Q54V32] RecName: Full=GATA zinc finger domain-containing protein 2; AltName: Full=Communication mutant protein H;
+Length: 131
+	******************************************************************
+	HSP 1
+	Bit score: 34.2686
+	Score: 77
+	E-value: 2.02331
+	Start in query: 228
+	End in query: 257
+	Start in subject: 87
+	End in subject: 119
+	Number of identities: 17
+	Number of positives: 20
+	Number of gaps: 9
+	Alignment length: 36
+	Alignment string for query (with gaps):   ECVNCGATATPLWRRDRTGHY------LCNACGLYH
+	Alignment string for subject (with gaps): RCYDCGRTRSPYWRK---GTYNGQVVHLCNACGLNH
+	Middle line:                               C +CG T +P WR+   G Y      LCNACGL H
+	******************************************************************
+----------------------------------------------------------------------
+Hit #124
+lcl|sp:ASH1_YEAST
+sp:ASH1_YEAST [P34233] RecName: Full=Transcriptional regulatory protein ASH1; AltName: Full=Daughter cells HO repressor protein;
+Length: 588
+	******************************************************************
+	HSP 1
+	Bit score: 34.2686
+	Score: 77
+	E-value: 2.05736
+	Start in query: 226
+	End in query: 258
+	Start in subject: 496
+	End in subject: 531
+	Number of identities: 15
+	Number of positives: 21
+	Number of gaps: 3
+	Alignment length: 36
+	Alignment string for query (with gaps):   ARECVNCGATATPLWR---RDRTGHYLCNACGLYHK
+	Alignment string for subject (with gaps): TRVCVSCHSSDSPCWRPSWSPRKQDQLCNSCGLRYK
+	Middle line:                               R CV+C ++ +P WR     R    LCN+CGL +K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #125
+lcl|sp:GAT29_ARATH
+sp:GAT29_ARATH [Q9LT45] RecName: Full=GATA transcription factor 29;
+Length: 208
+	******************************************************************
+	HSP 1
+	Bit score: 34.2686
+	Score: 77
+	E-value: 2.09198
+	Start in query: 230
+	End in query: 275
+	Start in subject: 162
+	End in subject: 203
+	Number of identities: 19
+	Number of positives: 25
+	Number of gaps: 6
+	Alignment length: 47
+	Alignment string for query (with gaps):   VNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRPKKRLIV
+	Alignment string for subject (with gaps): MNCNALNTPMWRRGPLGPKSLCNACGIKFRKEEE-----RKAKRNVV
+	Middle line:                              +NC A  TP+WRR   G   LCNACG+  +   +     R  KR +V
+	******************************************************************
+----------------------------------------------------------------------
+Hit #126
+lcl|sp:GATA3_ARATH
+sp:GATA3_ARATH [Q8L4M6] RecName: Full=GATA transcription factor 3; Short=AtGATA-3;
+Length: 269
+	******************************************************************
+	HSP 1
+	Bit score: 33.8834
+	Score: 76
+	E-value: 2.51349
+	Start in query: 227
+	End in query: 269
+	Start in subject: 180
+	End in subject: 222
+	Number of identities: 20
+	Number of positives: 24
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RRCSHCGTNNTPQWRTGPVGPKTLCNACGVRFK-SGRLCPEYRP
+	Middle line:                              R C +CG   TP WR    G   LCNACG+  K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #127
+lcl|sp:ASH1_CANAL
+sp:ASH1_CANAL [Q5A5Q6] RecName: Full=Transcriptional regulatory protein ASH1;
+Length: 449
+	******************************************************************
+	HSP 1
+	Bit score: 33.8834
+	Score: 76
+	E-value: 2.7551
+	Start in query: 227
+	End in query: 258
+	Start in subject: 363
+	End in subject: 396
+	Number of identities: 15
+	Number of positives: 22
+	Number of gaps: 4
+	Alignment length: 35
+	Alignment string for query (with gaps):   RECVNCGATATPLWR---RDRTGHYLCNACGLYHK
+	Alignment string for subject (with gaps): RVCISCGSDQSPCWRPSWSIKQGQ-LCNSCGLRYK
+	Middle line:                              R C++CG+  +P WR     + G  LCN+CGL +K
+	******************************************************************
+----------------------------------------------------------------------
+Hit #128
+lcl|sp:GAT13_ARATH
+sp:GAT13_ARATH [Q9SKN6] RecName: Full=Putative GATA transcription factor 13;
+Length: 291
+	******************************************************************
+	HSP 1
+	Bit score: 33.8834
+	Score: 76
+	E-value: 2.94528
+	Start in query: 229
+	End in query: 258
+	Start in subject: 193
+	End in subject: 223
+	Number of identities: 14
+	Number of positives: 17
+	Number of gaps: 1
+	Alignment length: 31
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHY-LCNACGLYHK
+	Alignment string for subject (with gaps): CTHCETTTTPQWREGPNGRKTLCNACGIRFR
+	Middle line:                              C +C  T TP WR    G   LCNACG+  +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #129
+lcl|sp:ECM23_YEAST
+sp:ECM23_YEAST [Q02710] RecName: Full=Protein ECM23; AltName: Full=Extracellular mutant protein 23; AltName: Full=SRD1 homolog 2;
+Length: 187
+	******************************************************************
+	HSP 1
+	Bit score: 33.4982
+	Score: 75
+	E-value: 3.65882
+	Start in query: 208
+	End in query: 264
+	Start in subject: 111
+	End in subject: 168
+	Number of identities: 17
+	Number of positives: 27
+	Number of gaps: 1
+	Alignment length: 58
+	Alignment string for query (with gaps):   AAYSSPKLRGTLPLPPCEARECVNCGATATPLWRRDRTGHY-LCNACGLYHKMNGQNR
+	Alignment string for subject (with gaps): AGYRPKSRKKQTILPNGQPKECATCGDTWTSQWRSGPNGNVELCSRCGIAYRKKMEKK
+	Middle line:                              A Y     +    LP  + +EC  CG T T  WR    G+  LC+ CG+ ++   + +
+	******************************************************************
+----------------------------------------------------------------------
+Hit #130
+lcl|sp:GTAE_DICDI
+sp:GTAE_DICDI [Q55GK0] RecName: Full=GATA zinc finger domain-containing protein 5;
+Length: 952
+	******************************************************************
+	HSP 1
+	Bit score: 33.4982
+	Score: 75
+	E-value: 3.9772
+	Start in query: 225
+	End in query: 255
+	Start in subject: 237
+	End in subject: 268
+	Number of identities: 14
+	Number of positives: 19
+	Number of gaps: 1
+	Alignment length: 32
+	Alignment string for query (with gaps):   EARECVNCGATATPLWRRDRTG-HYLCNACGL
+	Alignment string for subject (with gaps): DSLKCYQCNTSNTPEWRKGPEGPATLCNACGL
+	Middle line:                              ++ +C  C  + TP WR+   G   LCNACGL
+	******************************************************************
+----------------------------------------------------------------------
+Hit #131
+lcl|sp:GAT27_ARATH
+sp:GAT27_ARATH [Q5PP38] RecName: Full=GATA transcription factor 27;
+Length: 470
+	******************************************************************
+	HSP 1
+	Bit score: 33.113
+	Score: 74
+	E-value: 4.89969
+	Start in query: 229
+	End in query: 261
+	Start in subject: 7
+	End in subject: 40
+	Number of identities: 16
+	Number of positives: 19
+	Number of gaps: 1
+	Alignment length: 34
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGH-YLCNACGLYHKMNG
+	Alignment string for subject (with gaps): CYHCGVTSTPLWRNGPPEKPVLCNACGSRWRTKG
+	Middle line:                              C +CG T+TPLWR        LCNACG   +  G
+	******************************************************************
+----------------------------------------------------------------------
+Hit #132
+lcl|sp:AMS2_SCHPO
+sp:AMS2_SCHPO [Q9URT4] RecName: Full=CENP-A multicopy suppressor protein 2;
+Length: 697
+	******************************************************************
+	HSP 1
+	Bit score: 33.113
+	Score: 74
+	E-value: 5.19438
+	Start in query: 229
+	End in query: 265
+	Start in subject: 351
+	End in subject: 390
+	Number of identities: 16
+	Number of positives: 18
+	Number of gaps: 3
+	Alignment length: 40
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGHY---LCNACGLYHKMNGQNRP
+	Alignment string for subject (with gaps): CQNCGTIKTANWRNATYMNITLMLCNACGIYWTSRRSMRP
+	Middle line:                              C NCG   T  WR     +    LCNACG+Y       RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #133
+lcl|sp:GATA7_ARATH
+sp:GATA7_ARATH [O65515] RecName: Full=GATA transcription factor 7;
+Length: 238
+	******************************************************************
+	HSP 1
+	Bit score: 32.7278
+	Score: 73
+	E-value: 5.37067
+	Start in query: 227
+	End in query: 269
+	Start in subject: 164
+	End in subject: 206
+	Number of identities: 20
+	Number of positives: 24
+	Number of gaps: 2
+	Alignment length: 44
+	Alignment string for query (with gaps):   RECVNCGATATPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRP
+	Alignment string for subject (with gaps): RCCSHCGVQKTPQWRMGPLGAKTLCNACGVRFK-SGRLLPEYRP
+	Middle line:                              R C +CG   TP WR    G   LCNACG+  K +G+  P  RP
+	******************************************************************
+----------------------------------------------------------------------
+Hit #134
+lcl|sp:GAT25_ARATH
+sp:GAT25_ARATH [Q9LRH6] RecName: Full=GATA transcription factor 25; AltName: Full=Protein TIFY 1; AltName: Full=Protein ZIM;
+Length: 309
+	******************************************************************
+	HSP 1
+	Bit score: 32.3426
+	Score: 72
+	E-value: 8.71365
+	Start in query: 229
+	End in query: 272
+	Start in subject: 214
+	End in subject: 260
+	Number of identities: 18
+	Number of positives: 26
+	Number of gaps: 3
+	Alignment length: 47
+	Alignment string for query (with gaps):   CVNCGATA--TPLWRRDRTG-HYLCNACGLYHKMNGQNRPLIRPKKR
+	Alignment string for subject (with gaps): CTHCGISSKCTPMMRRGPSGPRTLCNACGLFWANRGTLRDLSKKTEE
+	Middle line:                              C +CG ++  TP+ RR  +G   LCNACGL+    G  R L +  + 
+	******************************************************************
+----------------------------------------------------------------------
+Hit #135
+lcl|sp:GAT26_ARATH
+sp:GAT26_ARATH [Q8W4H1] RecName: Full=GATA transcription factor 26;
+Length: 510
+	******************************************************************
+	HSP 1
+	Bit score: 31.9574
+	Score: 71
+	E-value: 9.16098
+	Start in query: 229
+	End in query: 254
+	Start in subject: 7
+	End in subject: 33
+	Number of identities: 15
+	Number of positives: 16
+	Number of gaps: 1
+	Alignment length: 27
+	Alignment string for query (with gaps):   CVNCGATATPLWRRDRTGH-YLCNACG
+	Alignment string for subject (with gaps): CYHCGVTNTPLWRNGPPEKPVLCNACG
+	Middle line:                              C +CG T TPLWR        LCNACG
+	******************************************************************
+----------------------------------------------------------------------

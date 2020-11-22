@@ -1,0 +1,348 @@
+LOCUS       NM_001317184            4628 bp    mRNA    linear   PRI 19-NOV-2020
+DEFINITION  Homo sapiens cadherin 1 (CDH1), transcript variant 2, mRNA.
+ACCESSION   NM_001317184
+VERSION     NM_001317184.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4628)
+  AUTHORS   Margan MM, Cimpean AM, Ceausu AR and Raica M.
+  TITLE     Differential Expression of E-Cadherin and P-Cadherin in Breast
+            Cancer Molecular Subtypes
+  JOURNAL   Anticancer Res 40 (10), 5557-5566 (2020)
+   PUBMED   32988879
+  REMARK    GeneRIF: Differential Expression of E-Cadherin and P-Cadherin in
+            Breast Cancer Molecular Subtypes.
+REFERENCE   2  (bases 1 to 4628)
+  AUTHORS   Haenig C, Atias N, Taylor AK, Mazza A, Schaefer MH, Russ J,
+            Riechers SP, Jain S, Coughlin M, Fontaine JF, Freibaum BD,
+            Brusendorf L, Zenkner M, Porras P, Stroedicke M, Schnoegl S,
+            Arnsburg K, Boeddrich A, Pigazzini L, Heutink P, Taylor JP,
+            Kirstein J, Andrade-Navarro MA, Sharan R and Wanker EE.
+  TITLE     Interactome Mapping Provides a Network of Neurodegenerative Disease
+            Proteins and Uncovers Widespread Protein Aggregation in Affected
+            Brains
+  JOURNAL   Cell Rep 32 (7), 108050 (2020)
+   PUBMED   32814053
+REFERENCE   3  (bases 1 to 4628)
+  AUTHORS   Nishi K, Tsunoda T, Uchida Y, Sueta T, Sawatsubashi M, Yamano T,
+            Hashiguchi Y, Swain A, Shirasawa S and Sakata T.
+  TITLE     MK615 Suppresses Hypoxia Tolerance by Up-regulation of E-cadherin
+            in Colorectal Cancer Cells With Mutant KRAS
+  JOURNAL   Anticancer Res 40 (8), 4687-4694 (2020)
+   PUBMED   32727793
+  REMARK    GeneRIF: MK615 Suppresses Hypoxia Tolerance by Up-regulation of
+            E-cadherin in Colorectal Cancer Cells With Mutant KRAS.
+REFERENCE   4  (bases 1 to 4628)
+  AUTHORS   Sunnaghatta Nagaraja S, Raviraj R, Selvakumar I, Dharmalingam D,
+            Ramadas N, Chellappan DR, Ponnachipudhur Chinnaswamy P and
+            Nagarajan D.
+  TITLE     Radiation-induced H3K9 tri-methylation in E-cadherin promoter
+            during lung EMT: in vitro and in vivo approaches using vanillin
+  JOURNAL   Free Radic Res 54 (7), 540-555 (2020)
+   PUBMED   32842802
+  REMARK    GeneRIF: Radiation-induced H3K9 tri-methylation in E-cadherin
+            promoter during lung EMT: in vitro and in vivo approaches using
+            vanillin.
+REFERENCE   5  (bases 1 to 4628)
+  AUTHORS   Lecuit T and Yap AS.
+  TITLE     E-cadherin junctions as active mechanical integrators in tissue
+            dynamics
+  JOURNAL   Nat Cell Biol 17 (5), 533-539 (2015)
+   PUBMED   25925582
+  REMARK    Review article
+REFERENCE   6  (bases 1 to 4628)
+  AUTHORS   Kaurah,P. and Huntsman,D.G.
+  TITLE     Hereditary Diffuse Gastric Cancer
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301318
+REFERENCE   7  (bases 1 to 4628)
+  AUTHORS   Knudsen KA and Wheelock MJ.
+  TITLE     Plakoglobin, or an 83-kD homologue distinct from beta-catenin,
+            interacts with E-cadherin and N-cadherin
+  JOURNAL   J Cell Biol 118 (3), 671-679 (1992)
+   PUBMED   1639850
+REFERENCE   8  (bases 1 to 4628)
+  AUTHORS   La Vecchia C, Negri E, Franceschi S and Gentile A.
+  TITLE     Family history and the risk of stomach and colorectal cancer
+  JOURNAL   Cancer 70 (1), 50-55 (1992)
+   PUBMED   1606546
+REFERENCE   9  (bases 1 to 4628)
+  AUTHORS   Zanghieri G, Di Gregorio C, Sacchetti C, Fante R, Sassatelli R,
+            Cannizzo G, Carriero A and Ponz de Leon M.
+  TITLE     Familial occurrence of gastric cancer in the 2-year experience of a
+            population-based registry
+  JOURNAL   Cancer 66 (9), 2047-2051 (1990)
+   PUBMED   2224804
+REFERENCE   10 (bases 1 to 4628)
+  AUTHORS   Mansouri A, Spurr N, Goodfellow PN and Kemler R.
+  TITLE     Characterization and chromosomal localization of the gene encoding
+            the human cell adhesion molecule uvomorulin
+  JOURNAL   Differentiation 38 (1), 67-71 (1988)
+   PUBMED   3263290
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK312551.1, AB025105.1 and
+            EU709494.1.
+            On May 31, 2019 this sequence version replaced NM_001317184.1.
+            
+            Summary: This gene encodes a classical cadherin of the cadherin
+            superfamily. Alternative splicing results in multiple transcript
+            variants, at least one of which encodes a preproprotein that is
+            proteolytically processed to generate the mature glycoprotein. This
+            calcium-dependent cell-cell adhesion protein is comprised of five
+            extracellular cadherin repeats, a transmembrane region and a highly
+            conserved cytoplasmic tail. Mutations in this gene are correlated
+            with gastric, breast, colorectal, thyroid and ovarian cancer. Loss
+            of function of this gene is thought to contribute to cancer
+            progression by increasing proliferation, invasion, and/or
+            metastasis. The ectodomain of this protein mediates bacterial
+            adhesion to mammalian cells and the cytoplasmic domain is required
+            for internalization. This gene is present in a gene cluster with
+            other members of the cadherin family on chromosome 16. [provided by
+            RefSeq, Nov 2015].
+            
+            Transcript Variant: This variant (2) lacks an alternate exon in the
+            central coding region compared to variant 1. The encoded isoform
+            (2) is shorter than isoform 1. This isoform (2) may undergo
+            proteolytic processing similar to isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AB025105.1 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA1966682, SAMEA1968189
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-60                AK312551.1         3-62
+            61-2016             AB025105.1         1-1956
+            2017-2017           AK312551.1         2202-2202
+            2018-2627           AB025105.1         1958-2567
+            2628-4628           EU709494.1         2811-4811
+FEATURES             Location/Qualifiers
+     source          1..4628
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="16"
+                     /map="16q22.1"
+     gene            1..4628
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="cadherin 1"
+                     /db_xref="GeneID:999"
+                     /db_xref="HGNC:HGNC:1748"
+                     /db_xref="MIM:192090"
+     exon            1..172
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             125..2590
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="isoform 2 precursor is encoded by transcript
+                     variant 2; CAM 120/80; cadherin 1, E-cadherin
+                     (epithelial); uvomorulin; cadherin 1, type 1, E-cadherin
+                     (epithelial); calcium-dependent adhesion protein,
+                     epithelial; cell-CAM 120/80; epithelial cadherin;
+                     E-cadherin 1; epididymis secretory sperm binding protein"
+                     /codon_start=1
+                     /product="cadherin-1 isoform 2 precursor"
+                     /protein_id="NP_001304113.1"
+                     /db_xref="CCDS:CCDS82005.1"
+                     /db_xref="GeneID:999"
+                     /db_xref="HGNC:HGNC:1748"
+                     /db_xref="MIM:192090"
+                     /translation="MGPWSRSLSALLLLLQVSSWLCQEPEPCHPGFDAESYTFTVPRR
+                     HLERGRVLGRVNFEDCTGRQRTAYFSLDTRFKVGTDGVITVKRPLRFHNPQIHFLVYA
+                     WDSTYRKFSTKVTLNTVGHHHRPPPHQASVSGIQAELLTFPNSSPGLRRQKRDWVIPP
+                     ISCPENEKGPFPKNLVQIKSNKDKEGKVFYSITGQGADTPPVGVFIIERETGWLKVTE
+                     PLDRERIATYTLFSHAVSSNGNAVEDPMEILITVTDQNDNKPEFTQEVFKGSVMEGAL
+                     PGTSVMEVTATDADDDVNTYNAAIAYTILSQDPELPDKNMFTINRNTGVISVVTTGLD
+                     RESFPTYTLVVQAADLQGEGLSTTATAVITVTDTNDNPPIFNPTTGLDFEAKQQYILH
+                     VAVTNVVPFEVSLTTSTATVTVDVLDVNEAPIFVPPEKRVEVSEDFGVGQEITSYTAQ
+                     EPDTFMEQKITYRIWRDTANWLEINPDTGAISTRAELDREDFEHVKNSTYTALIIATD
+                     NGSPVATGTGTLLLILSDVNDNAPIPEPRTIFFCERNPKPQVINIIDADLPPNTSPFT
+                     AELTHGASANWTIQYNDPTQESIILKPKMALEVGDYKINLKLMDNQNKDQVTTLEVSV
+                     CDCEGAAGVCRKAQPVEAGLQIPAILGILGGILALLILILLLLLFLRRRAVVKEPLLP
+                     PEDDTRDNVYYYDEEGGGEEDQDFDLSQLHRGLDARPEVTRNDVAPTLMSVPRYLPRP
+                     ANPDEIGNFIDENLKAADTDPTAPPYDSLLVFDYEGSGSEAASLSSLNSSESDKDQDY
+                     DYLNEWGNRFKKLADMYGGGEDD"
+     sig_peptide     125..190
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     misc_feature    962..964
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="O-linked (Man...) serine.
+                     /evidence=ECO:0000250|UniProtKB:P09803; propagated from
+                     UniProtKB/Swiss-Prot (P12830.3); glycosylation site"
+     misc_feature    977..979
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="O-linked (Man...) threonine.
+                     /evidence=ECO:0000250|UniProtKB:P09803; propagated from
+                     UniProtKB/Swiss-Prot (P12830.3); glycosylation site"
+     misc_feature    1196..1198
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="O-linked (Man...) threonine.
+                     /evidence=ECO:0000250|UniProtKB:P09803; propagated from
+                     UniProtKB/Swiss-Prot (P12830.3); glycosylation site"
+     exon            173..287
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            288..511
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            512..655
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            656..811
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            812..956
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            957..1132
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1133..1261
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1262..1506
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1507..1652
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1653..1877
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1878..2105
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2106..2236
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2237..2380
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2381..4628
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4610..4615
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="hexamer: ATTAAA"
+     polyA_site      4628
+                     /gene="CDH1"
+                     /gene_synonym="Arc-1; BCDS1; CD324; CDHE; ECAD; LCAM; UVO"
+                     /note="major polyA site"
+ORIGIN      
+        1 agtggcgtcg gaactgcaaa gcacctgtga gcttgcggaa gtcagttcag actccagccc
+       61 gctccagccc ggcccgaccc gaccgcaccc ggcgcctgcc ctcgctcggc gtccccggcc
+      121 agccatgggc ccttggagcc gcagcctctc ggcgctgctg ctgctgctgc aggtctcctc
+      181 ttggctctgc caggagccgg agccctgcca ccctggcttt gacgccgaga gctacacgtt
+      241 cacggtgccc cggcgccacc tggagagagg ccgcgtcctg ggcagagtga attttgaaga
+      301 ttgcaccggt cgacaaagga cagcctattt ttccctcgac acccgattca aagtgggcac
+      361 agatggtgtg attacagtca aaaggcctct acggtttcat aacccacaga tccatttctt
+      421 ggtctacgcc tgggactcca cctacagaaa gttttccacc aaagtcacgc tgaatacagt
+      481 ggggcaccac caccgccccc cgccccatca ggcctccgtt tctggaatcc aagcagaatt
+      541 gctcacattt cccaactcct ctcctggcct cagaagacag aagagagact gggttattcc
+      601 tcccatcagc tgcccagaaa atgaaaaagg cccatttcct aaaaacctgg ttcagatcaa
+      661 atccaacaaa gacaaagaag gcaaggtttt ctacagcatc actggccaag gagctgacac
+      721 accccctgtt ggtgtcttta ttattgaaag agaaacagga tggctgaagg tgacagagcc
+      781 tctggataga gaacgcattg ccacatacac tctcttctct cacgctgtgt catccaacgg
+      841 gaatgcagtt gaggatccaa tggagatttt gatcacggta accgatcaga atgacaacaa
+      901 gcccgaattc acccaggagg tctttaaggg gtctgtcatg gaaggtgctc ttccaggaac
+      961 ctctgtgatg gaggtcacag ccacagacgc ggacgatgat gtgaacacct acaatgccgc
+     1021 catcgcttac accatcctca gccaagatcc tgagctccct gacaaaaata tgttcaccat
+     1081 taacaggaac acaggagtca tcagtgtggt caccactggg ctggaccgag agagtttccc
+     1141 tacgtatacc ctggtggttc aagctgctga ccttcaaggt gaggggttaa gcacaacagc
+     1201 aacagctgtg atcacagtca ctgacaccaa cgataatcct ccgatcttca atcccaccac
+     1261 gggcttggat tttgaggcca agcagcagta cattctacac gtagcagtga cgaatgtggt
+     1321 accttttgag gtctctctca ccacctccac agccaccgtc accgtggatg tgctggatgt
+     1381 gaatgaagcc cccatctttg tgcctcctga aaagagagtg gaagtgtccg aggactttgg
+     1441 cgtgggccag gaaatcacat cctacactgc ccaggagcca gacacattta tggaacagaa
+     1501 aataacatat cggatttgga gagacactgc caactggctg gagattaatc cggacactgg
+     1561 tgccatttcc actcgggctg agctggacag ggaggatttt gagcacgtga agaacagcac
+     1621 gtacacagcc ctaatcatag ctacagacaa tggttctcca gttgctactg gaacagggac
+     1681 acttctgctg atcctgtctg atgtgaatga caacgccccc ataccagaac ctcgaactat
+     1741 attcttctgt gagaggaatc caaagcctca ggtcataaac atcattgatg cagaccttcc
+     1801 tcccaataca tctcccttca cagcagaact aacacacggg gcgagtgcca actggaccat
+     1861 tcagtacaac gacccaaccc aagaatctat cattttgaag ccaaagatgg ccttagaggt
+     1921 gggtgactac aaaatcaatc tcaagctcat ggataaccag aataaagacc aagtgaccac
+     1981 cttagaggtc agcgtgtgtg actgtgaagg ggccgctggc gtctgtagga aggcacagcc
+     2041 tgtcgaagca ggattgcaaa ttcctgccat tctggggatt cttggaggaa ttcttgcttt
+     2101 gctaattctg attctgctgc tcttgctgtt tcttcggagg agagcggtgg tcaaagagcc
+     2161 cttactgccc ccagaggatg acacccggga caacgtttat tactatgatg aagaaggagg
+     2221 cggagaagag gaccaggact ttgacttgag ccagctgcac aggggcctgg acgctcggcc
+     2281 tgaagtgact cgtaacgacg ttgcaccaac cctcatgagt gtcccccggt atcttccccg
+     2341 ccctgccaat cccgatgaaa ttggaaattt tattgatgaa aatctgaaag cggctgatac
+     2401 tgaccccaca gccccgcctt atgattctct gctcgtgttt gactatgaag gaagcggttc
+     2461 cgaagctgct agtctgagct ccctgaactc ctcagagtca gacaaagacc aggactatga
+     2521 ctacttgaac gaatggggca atcgcttcaa gaagctggct gacatgtacg gaggcggcga
+     2581 ggacgactag gggactcgag agaggcgggc cccagaccca tgtgctggga aatgcagaaa
+     2641 tcacgttgct ggtggttttt cagctccctt cccttgagat gagtttctgg ggaaaaaaaa
+     2701 gagactggtt agtgatgcag ttagtatagc tttatactct ctccacttta tagctctaat
+     2761 aagtttgtgt tagaaaagtt tcgacttatt tcttaaagct tttttttttt tcccatcact
+     2821 ctttacatgg tggtgatgtc caaaagatac ccaaatttta atattccaga agaacaactt
+     2881 tagcatcaga aggttcaccc agcaccttgc agattttctt aaggaatttt gtctcacttt
+     2941 taaaaagaag gggagaagtc agctactcta gttctgttgt tttgtgtata taatttttta
+     3001 aaaaaaattt gtgtgcttct gctcattact acactggtgt gtccctctgc cttttttttt
+     3061 tttttaagac agggtctcat tctatcggcc aggctggagt gcagtggtgc aatcacagct
+     3121 cactgcagcc ttgtcctccc aggctcaagc tatccttgca cctcagcctc ccaagtagct
+     3181 gggaccacag gcatgcacca ctacgcatga ctaatttttt aaatatttga gacggggtct
+     3241 ccctgtgtta cccaggctgg tctcaaactc ctgggctcaa gtgatcctcc catcttggcc
+     3301 tcccagagta ttgggattac agacatgagc cactgcacct gcccagctcc ccaactccct
+     3361 gccatttttt aagagacagt ttcgctccat cgcccaggcc tgggatgcag tgatgtgatc
+     3421 atagctcact gtaacctcaa actctggggc tcaagcagtt ctcccaccag cctccttttt
+     3481 atttttttgt acagatgggg tcttgctatg ttgcccaagc tggtcttaaa ctcctggcct
+     3541 caagcaatcc ttctgccttg gccccccaaa gtgctgggat tgtgggcatg agctgctgtg
+     3601 cccagcctcc atgttttaat atcaactctc actcctgaat tcagttgctt tgcccaagat
+     3661 aggagttctc tgatgcagaa attattgggc tcttttaggg taagaagttt gtgtctttgt
+     3721 ctggccacat cttgactagg tattgtctac tctgaagacc tttaatggct tccctctttc
+     3781 atctcctgag tatgtaactt gcaatgggca gctatccagt gacttgttct gagtaagtgt
+     3841 gttcattaat gtttatttag ctctgaagca agagtgatat actccaggac ttagaatagt
+     3901 gcctaaagtg ctgcagccaa agacagagcg gaactatgaa aagtgggctt ggagatggca
+     3961 ggagagcttg tcattgagcc tggcaattta gcaaactgat gctgaggatg attgaggtgg
+     4021 gtctacctca tctctgaaaa ttctggaagg aatggaggag tctcaacatg tgtttctgac
+     4081 acaagatccg tggtttgtac tcaaagccca gaatccccaa gtgcctgctt ttgatgatgt
+     4141 ctacagaaaa tgctggctga gctgaacaca tttgcccaat tccaggtgtg cacagaaaac
+     4201 cgagaatatt caaaattcca aatttttttc ttaggagcaa gaagaaaatg tggccctaaa
+     4261 gggggttagt tgaggggtag ggggtagtga ggatcttgat ttggatctct ttttatttaa
+     4321 atgtgaattt caacttttga caatcaaaga aaagactttt gttgaaatag ctttactgtt
+     4381 tctcaagtgt tttggagaaa aaaatcaacc ctgcaatcac tttttggaat tgtcttgatt
+     4441 tttcggcagt tcaagctata tcgaatatag ttctgtgtag agaatgtcac tgtagttttg
+     4501 agtgtataca tgtgtgggtg ctgataattg tgtattttct ttgggggtgg aaaaggaaaa
+     4561 caattcaagc tgagaaaagt attctcaaag atgcattttt ataaatttta ttaaacaatt
+     4621 ttgttaaa
+//
+
