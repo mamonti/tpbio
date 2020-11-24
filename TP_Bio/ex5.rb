@@ -6,9 +6,8 @@ require 'uri'
 require 'net/http'
 
 module TP_Bio
-      # Use EMBOSS' API to calculate ORFs of a given sequence, obtain possible protein sequences, and analyze
-      # the obtained proteins.
-      # API documentation obtained from https://www.ebi.ac.uk/Tools/common/tools/help/index.html
+      # EMBOSS to calculate ORFs of a sequence, obtain possible protein sequences, and analyze
+      # from https://www.ebi.ac.uk/Tools/common/tools/help/index.html
       class Ex5
         DEFAULT_GENBANK_FILE = File.join __dir__, 'NM_001317184.gbk'
 
@@ -115,7 +114,7 @@ module TP_Bio
           args = { in: nil, out: '.', sequence: nil }
 
           OptionParser.new do |parser|
-            parser.banner = "Usage: ruby #{File.expand_path 'main.rb', __dir__} [options]"
+            parser.banner = "Usage: ruby #{File.expand_path 'ex5.rb', __dir__} [options]"
 
             parser.on('-i IN', '--in IN', 'Input nucleotide sequence FASTA file. If neither -i nor -s are provided, defaults to reading sequence from ex1 GenBank file.') do |x|
               args[:in] = x
@@ -141,21 +140,19 @@ module TP_Bio
       end
 
       class Utils
-    # Define "static" methods
+
     class << self
 
-      # Extract UID from a BLAST report hit. This ID can be used in #ncbi_protein_lookup
+      # Extract ID from BLAST report
       def extract_hit_id(hit)
         result = hit.accession
-        unless result.index(':').nil? # : in accession means this isn't really an accession (eg. our blast_raw.txt)
-          # ID is enclosed in [] at the beginning of the definition, extract.
-          # The weird &.[] is a null-safe [0], see https://stackoverflow.com/questions/34794697/using-with-the-safe-navigation-operator-in-ruby
+        unless result.index(':').nil? 
           result = hit.definition.scan(/^\[(.+)\]/)&.[](0)&.[](0)
         end
         result
       end
 
-      # Look up proteins in NCBI by ID and return them as FASTA
+      # Look up proteins in NCBI by ID
       def ncbi_protein_lookup(ids)
         results = Bio::NCBI::REST::EFetch.protein(ids, 'fasta')
         parsed_results = Bio::FlatFile.new(Bio::FastaFormat, StringIO.new(results))

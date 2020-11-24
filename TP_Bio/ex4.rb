@@ -4,8 +4,7 @@ require 'bio'
 require 'optparse'
 
 module TP_Bio
-      # Read a BLAST report XML (eg. ex 2 output) and search for a pattern in results. Lookup full FASTA
-      # sequences from matching hits in NCBI, and output.
+      # Search for a pattern in BLAST output
       class Ex4
         def run
           args = Options.new.parse
@@ -43,7 +42,7 @@ module TP_Bio
           args = { in: DEFAULT_INPUT_FILE, out: nil, pattern: nil }
 
           OptionParser.new do |parser|
-            parser.banner = "Usage: ruby #{File.expand_path 'main.rb', __dir__} [options]"
+            parser.banner = "Usage: ruby #{File.expand_path 'ex4.rb', __dir__} [options]"
 
             parser.on('-i IN', '--in IN', 'Input BLAST XML report file. Defaults to reading report from ex 2.') do |x|
               args[:in] = x
@@ -61,7 +60,7 @@ module TP_Bio
             exit 1
           end
           if args[:pattern].empty?
-            puts 'Pattern is must be not empty'
+            puts 'Pattern must not be empty'
             exit 1
           end
 
@@ -74,21 +73,19 @@ module TP_Bio
       end
 
       class Utils
-    # Define "static" methods
+
     class << self
 
-      # Extract UID from a BLAST report hit. This ID can be used in #ncbi_protein_lookup
+      # ID from BLAST report
       def extract_hit_id(hit)
         result = hit.accession
-        unless result.index(':').nil? # : in accession means this isn't really an accession (eg. our blast_raw.txt)
-          # ID is enclosed in [] at the beginning of the definition, extract.
-          # The weird &.[] is a null-safe [0], see https://stackoverflow.com/questions/34794697/using-with-the-safe-navigation-operator-in-ruby
+        unless result.index(':').nil?
           result = hit.definition.scan(/^\[(.+)\]/)&.[](0)&.[](0)
         end
         result
       end
 
-      # Look up proteins in NCBI by ID and return them as FASTA
+      # Look up proteins in NCBI by ID
       def ncbi_protein_lookup(ids)
         results = Bio::NCBI::REST::EFetch.protein(ids, 'fasta')
         parsed_results = Bio::FlatFile.new(Bio::FastaFormat, StringIO.new(results))

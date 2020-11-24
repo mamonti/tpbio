@@ -74,7 +74,7 @@ module TP_Bio
           args = { in: nil, out: nil, local: false }
 
           OptionParser.new do |parser|
-            parser.banner = "Usage: ruby #{File.expand_path 'main.rb', __dir__} [options]"
+            parser.banner = "Usage: ruby #{File.expand_path 'ex2.rb', __dir__} [options]"
 
             parser.on('-i IN', '--in IN', "Input FASTA file. Defaults to ex1's output.") do |x|
               args[:in] = x

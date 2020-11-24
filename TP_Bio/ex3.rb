@@ -47,7 +47,7 @@ module TP_Bio
           args = { in: nil, out: nil, mafft: 'mafft' }
 
           OptionParser.new do |parser|
-            parser.banner = "Usage: ruby #{File.expand_path 'main.rb', __dir__} [options]"
+            parser.banner = "Usage: ruby #{File.expand_path 'ex3.rb', __dir__} [options]"
 
             parser.on('-i IN', '--in IN', 'Input FASTA file. Defaults to reading BLAST from ex 2.') do |x|
               args[:in] = x
